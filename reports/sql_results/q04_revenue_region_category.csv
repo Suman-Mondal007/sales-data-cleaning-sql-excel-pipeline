@@ -1,0 +1,25 @@
+region,category,revenue,orders
+East,Electronics,18485180.15,528
+East,Sports,4542813.45,513
+East,Home & Kitchen,4508719.85,568
+East,Fashion,2193872.85,532
+East,Beauty,1373421.45,564
+East,Books,418186.2,536
+North,Electronics,16644659.3,483
+North,Sports,4435690.9,484
+North,Home & Kitchen,3513307.1,440
+North,Fashion,1988500.8,493
+North,Beauty,1060985.3,456
+North,Books,382790.95,473
+South,Electronics,29315318.8,818
+South,Sports,8041006.55,886
+South,Home & Kitchen,7433158.0,901
+South,Fashion,3545686.3,898
+South,Beauty,2096327.35,857
+South,Books,704996.65,916
+West,Electronics,29041141.4,819
+West,Sports,7439347.95,812
+West,Home & Kitchen,6506490.95,841
+West,Fashion,3136894.6,809
+West,Beauty,2109739.05,844
+West,Books,672782.05,811

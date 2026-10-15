@@ -1,0 +1,48 @@
+{
+  "raw_rows": {
+    "orders": 20600,
+    "customers": 6040,
+    "products": 60
+  },
+  "products_missing_price": 2,
+  "products_still_missing_price": 0,
+  "category_variants": [
+    14,
+    6
+  ],
+  "customers_duplicates_removed": 40,
+  "city_variants": [
+    31,
+    8
+  ],
+  "emails_missing": 180,
+  "emails_invalid": 234,
+  "orders_exact_duplicates_before_normalising": 286,
+  "orders_duplicates_removed": 600,
+  "status_variants": [
+    16,
+    4
+  ],
+  "payment_variants": [
+    16,
+    5
+  ],
+  "date_formats_in_raw": 3,
+  "price_values_with_currency_symbols": 2025,
+  "discount_missing_filled_with_0": 600,
+  "unit_price_missing_filled_from_master": 400,
+  "orders_rejected_by_reason": {
+    "missing_quantity": 291,
+    "quantity_out_of_range": 219,
+    "invalid_or_unparseable_date": 100,
+    "unknown_customer_id": 99,
+    "unknown_product_id": 96,
+    "date_out_of_range": 60,
+    "discount_out_of_range": 57
+  },
+  "clean_rows": {
+    "orders": 19078,
+    "customers": 6000,
+    "products": 60
+  }
+}

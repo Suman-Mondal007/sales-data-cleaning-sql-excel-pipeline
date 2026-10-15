@@ -1,0 +1,5 @@
+region,total_orders,cancelled_pct,returned_pct
+South,6181,7.1,4.8
+North,3289,6.9,4.2
+West,5814,6.8,5.2
+East,3794,6.5,5.3

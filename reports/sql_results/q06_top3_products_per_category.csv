@@ -1,0 +1,19 @@
+category,product_id,product_name,revenue,rank_in_category
+Beauty,P023,Beauty Item 23,1347848.25,1
+Beauty,P053,Beauty Item 53,1125250.95,2
+Beauty,P017,Beauty Item 17,757142.1,3
+Books,P004,Books Item 4,336406.65,1
+Books,P046,Books Item 46,330983.1,2
+Books,P040,Books Item 40,309345.85,3
+Electronics,P025,Electronics Item 25,12221915.85,1
+Electronics,P019,Electronics Item 19,11116935.9,2
+Electronics,P001,Electronics Item 1,10169242.35,3
+Fashion,P045,Fashion Item 45,1913260.7,1
+Fashion,P003,Fashion Item 3,1877984.8,2
+Fashion,P021,Fashion Item 21,1615017.25,3
+Home & Kitchen,P032,Home & Kitchen Item 32,4018631.4,1
+Home & Kitchen,P014,Home & Kitchen Item 14,3139583.1,2
+Home & Kitchen,P056,Home & Kitchen Item 56,2987626.95,3
+Sports,P012,Sports Item 12,4150605.55,1
+Sports,P024,Sports Item 24,3992641.8,2
+Sports,P006,Sports Item 6,3911105.0,3

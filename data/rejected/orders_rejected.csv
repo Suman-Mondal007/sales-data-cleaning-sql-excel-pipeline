@@ -1,0 +1,923 @@
+order_id,customer_id,product_id,order_date,quantity,unit_price,discount,status,payment_method,reject_reason
+ORD-009596,C5116,P040,2031-01-15,1.0,649.0,0.0,Delivered,UPI,date_out_of_range
+ORD-002203,C5167,P999,2024-12-22,3.0,179.0,0.0,Delivered,Debit Card,unknown_product_id
+ORD-003336,C4466,P999,2024-12-06,1.0,1419.0,0.0,Delivered,UPI,unknown_product_id
+ORD-004773,C5645,P999,2025-06-23,999.0,419.0,0.05,Pending,Credit Card,quantity_out_of_range
+ORD-014519,C1069,P010,2025-04-16,1.0,489.0,0.95,Delivered,Cash on Delivery,discount_out_of_range
+ORD-013189,C3796,P017,2024-11-29,,1749.0,0.05,Delivered,Cash on Delivery,missing_quantity
+ORD-017954,C0083,P008,2024-11-25,,6349.0,0.15,Delivered,UPI,missing_quantity
+ORD-015960,C2183,P999,2024-11-22,1.0,21599.0,0.0,Delivered,Debit Card,unknown_product_id
+ORD-018773,C3314,P042,2024-06-21,,7549.0,0.0,Cancelled,UPI,missing_quantity
+ORD-009729,C1135,P999,2024-10-23,2.0,21459.0,0.1,Delivered,UPI,unknown_product_id
+ORD-010128,C4456,P007,2024-12-22,999.0,23189.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-008478,C3529,P029,2024-08-11,-1.0,629.0,0.1,Delivered,UPI,quantity_out_of_range
+ORD-004875,C3090,P016,2025-04-22,,319.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-004689,C5647,P028,2024-09-19,4.0,179.0,0.95,Delivered,Credit Card,discount_out_of_range
+ORD-014675,C5761,P052,2024-07-07,,159.0,0.1,Delivered,UPI,missing_quantity
+ORD-007443,C4476,P042,2025-01-12,1.0,7549.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-003573,C4077,P027,2025-06-23,-1.0,2309.0,0.0,Returned,Cash on Delivery,quantity_out_of_range
+ORD-013113,C9999,P036,2025-06-30,2.0,1989.0,0.15,Delivered,UPI,unknown_customer_id
+ORD-017013,C2043,P030,2031-01-15,1.0,6259.0,0.0,Delivered,Net Banking,date_out_of_range
+ORD-002387,C3976,P043,2025-06-06,999.0,21459.0,0.1,Delivered,Credit Card,quantity_out_of_range
+ORD-000475,C4029,P999,2024-10-25,2.0,1419.0,0.0,Delivered,Debit Card,unknown_product_id
+ORD-013116,C1843,P033,,3.0,1739.0,0.0,Pending,UPI,invalid_or_unparseable_date
+ORD-014582,C4252,P050,2025-06-18,999.0,1379.0,0.0,Delivered,Debit Card,quantity_out_of_range
+ORD-002004,C1891,P040,2024-10-18,,649.0,0.05,Delivered,UPI,missing_quantity
+ORD-001289,C3981,P005,,1.0,459.0,0.0,Delivered,Credit Card,invalid_or_unparseable_date
+ORD-019340,C1661,P060,,2.0,1339.0,0.1,Delivered,Credit Card,invalid_or_unparseable_date
+ORD-000409,C4483,P999,2025-01-11,1.0,1379.0,0.0,Delivered,Credit Card,unknown_product_id
+ORD-015909,C1872,P999,2025-04-05,1.0,2839.0,0.0,Delivered,UPI,unknown_product_id
+ORD-011753,C9999,P058,2024-01-17,1.0,579.0,0.05,Delivered,Debit Card,unknown_customer_id
+ORD-012752,C4835,P015,2031-01-15,1.0,2219.0,0.15,Returned,Debit Card,date_out_of_range
+ORD-014315,C2928,P025,2031-01-15,1.0,23679.0,0.15,Delivered,UPI,date_out_of_range
+ORD-017820,C5747,P046,,1.0,749.0,0.0,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-018133,C5060,P009,2024-01-20,,929.0,0.0,Delivered,UPI,missing_quantity
+ORD-016090,C9999,P040,2025-06-07,1.0,649.0,0.1,Delivered,Cash on Delivery,unknown_customer_id
+ORD-015125,C9999,P044,2025-04-25,1.0,2709.0,0.0,Pending,Credit Card,unknown_customer_id
+ORD-005228,C2517,P033,2024-12-25,,1739.0,0.0,Delivered,Debit Card,missing_quantity
+ORD-008395,C0979,P032,2024-05-16,-1.0,7749.0,0.1,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-011593,C1069,P018,2031-01-15,1.0,899.0,0.2,Delivered,Cash on Delivery,date_out_of_range
+ORD-012165,C1326,P040,,2.0,649.0,0.05,Delivered,Cash on Delivery,invalid_or_unparseable_date
+ORD-007657,C1036,P003,2025-05-13,-1.0,3919.0,0.05,Delivered,UPI,quantity_out_of_range
+ORD-012971,C0426,P015,,5.0,2219.0,0.0,Cancelled,Debit Card,invalid_or_unparseable_date
+ORD-004707,C1304,P034,2031-01-15,1.0,429.0,0.1,Delivered,Cash on Delivery,date_out_of_range
+ORD-012078,C3431,P058,2024-10-12,,579.0,0.15,Returned,Debit Card,missing_quantity
+ORD-003107,C0244,P050,,1.0,1379.0,0.0,Delivered,Cash on Delivery,invalid_or_unparseable_date
+ORD-004919,C4860,P003,2024-03-22,,3919.0,0.15,Delivered,UPI,missing_quantity
+ORD-011878,C4149,P049,2025-04-07,-1.0,20949.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-019990,C4113,P039,2024-12-10,-1.0,1329.0,0.15,Delivered,Debit Card,quantity_out_of_range
+ORD-001963,C2725,P035,,4.0,1509.0,0.0,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-005352,C2351,P020,2024-12-23,,5159.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-009214,C3572,P042,,1.0,7549.0,0.05,Delivered,Credit Card,invalid_or_unparseable_date
+ORD-010546,C1360,P034,2024-11-04,-1.0,429.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-013382,C0396,P015,2024-09-21,999.0,2219.0,0.0,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-009395,C2787,P018,2024-05-05,-1.0,899.0,0.0,Delivered,Net Banking,quantity_out_of_range
+ORD-014304,C0332,P999,2024-11-07,2.0,319.0,0.05,Delivered,UPI,unknown_product_id
+ORD-010884,C4174,P003,2025-01-01,,3919.0,0.0,Delivered,Cash on Delivery,missing_quantity
+ORD-010266,C4043,P042,2025-03-16,,7549.0,0.05,Delivered,Net Banking,missing_quantity
+ORD-008301,C1455,P023,,1.0,2919.0,0.0,Delivered,Credit Card,invalid_or_unparseable_date
+ORD-015488,C0745,P029,2024-08-02,999.0,629.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-004485,C4923,P024,2024-02-20,,8079.0,0.0,Pending,Cash on Delivery,missing_quantity
+ORD-010663,C1537,P041,2031-01-15,2.0,1419.0,0.0,Cancelled,Cash on Delivery,date_out_of_range
+ORD-003669,C2337,P051,2024-01-02,-1.0,1219.0,0.1,Delivered,Credit Card,quantity_out_of_range
+ORD-009900,C5526,P030,,1.0,6259.0,0.05,Cancelled,Debit Card,invalid_or_unparseable_date
+ORD-006445,C2929,P056,,1.0,6309.0,0.0,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-017560,C4224,P030,2025-02-22,999.0,6259.0,0.15,Delivered,Debit Card,quantity_out_of_range
+ORD-017887,C3635,P048,2031-01-15,2.0,2839.0,0.15,Returned,Cash on Delivery,date_out_of_range
+ORD-013821,C9999,P005,2025-03-27,1.0,459.0,0.0,Delivered,Cash on Delivery,unknown_customer_id
+ORD-006707,C2094,P011,,2.0,1239.0,0.05,Returned,UPI,invalid_or_unparseable_date
+ORD-016870,C2992,P058,,1.0,579.0,0.1,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-018508,C2038,P034,2025-04-29,-1.0,429.0,0.2,Delivered,Net Banking,quantity_out_of_range
+ORD-017434,C5988,P011,2024-07-20,999.0,1239.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-007431,C3093,P047,2025-01-11,-1.0,1279.0,0.0,Cancelled,UPI,quantity_out_of_range
+ORD-018021,C5690,P049,2024-07-06,,20949.0,0.05,Delivered,Cash on Delivery,missing_quantity
+ORD-019654,C5561,P013,2025-01-04,,19849.0,0.15,Delivered,Credit Card,missing_quantity
+ORD-008117,C0226,P013,2031-01-15,3.0,19849.0,0.05,Returned,Debit Card,date_out_of_range
+ORD-012726,C3393,P021,2024-03-14,,3509.0,0.05,Delivered,Debit Card,missing_quantity
+ORD-002335,C1973,P051,2031-01-15,1.0,1219.0,0.05,Delivered,Net Banking,date_out_of_range
+ORD-010495,C0656,P034,2025-01-26,,429.0,0.1,Pending,Credit Card,missing_quantity
+ORD-000004,C5701,P999,2025-02-13,1.0,1749.0,0.0,Delivered,Credit Card,unknown_product_id
+ORD-009460,C9999,P016,2024-05-26,1.0,319.0,0.05,Delivered,Debit Card,unknown_customer_id
+ORD-004741,C3295,P020,2031-01-15,3.0,5159.0,0.1,Delivered,Net Banking,date_out_of_range
+ORD-017525,C0130,P045,2025-05-20,,3809.0,0.1,Delivered,Credit Card,missing_quantity
+ORD-004405,C5590,P005,2024-04-13,999.0,459.0,0.15,Delivered,Debit Card,quantity_out_of_range
+ORD-004915,C1063,P020,,3.0,5159.0,0.1,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-019817,C5649,P038,2025-04-13,1.0,3959.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-014571,C0872,P005,2024-08-18,,459.0,0.0,Delivered,UPI,missing_quantity
+ORD-012760,C0150,P039,2024-10-02,-1.0,1329.0,0.0,Delivered,Debit Card,quantity_out_of_range
+ORD-015311,C5526,P021,2024-03-31,,3509.0,0.0,Delivered,Net Banking,missing_quantity
+ORD-005099,C4483,P045,2024-11-08,-1.0,3809.0,0.1,Cancelled,Net Banking,quantity_out_of_range
+ORD-004936,C4566,P043,2024-10-13,999.0,21459.0,0.1,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-011199,C5293,P052,2024-10-02,,159.0,0.0,Delivered,UPI,missing_quantity
+ORD-008183,C0810,P009,,2.0,929.0,0.1,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-018736,C0313,P999,2024-11-29,1.0,22729.0,0.15,Delivered,Credit Card,unknown_product_id
+ORD-009393,C0931,P027,2025-02-01,,2309.0,0.05,Delivered,UPI,missing_quantity
+ORD-003456,C5066,P054,2024-12-10,999.0,6099.0,0.0,Delivered,Net Banking,quantity_out_of_range
+ORD-001322,C9999,P006,2024-03-02,1.0,8789.0,0.2,Delivered,Credit Card,unknown_customer_id
+ORD-017892,C0435,P001,2024-12-25,2.0,23559.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-013789,C3599,P040,2024-04-18,1.0,649.0,0.95,Delivered,Cash on Delivery,discount_out_of_range
+ORD-007531,C4001,P999,2024-10-01,4.0,2309.0,0.0,Delivered,Net Banking,unknown_product_id
+ORD-019894,C1265,P044,2024-06-26,,2709.0,0.15,Returned,UPI,missing_quantity
+ORD-016923,C5610,P019,2025-06-01,-1.0,25089.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-011843,C0188,P033,2024-12-14,,1739.0,0.0,Cancelled,Debit Card,missing_quantity
+ORD-002617,C9999,P037,2024-10-09,1.0,5199.0,0.15,Delivered,UPI,unknown_customer_id
+ORD-019858,C4646,P026,2024-12-04,,1799.0,0.05,Delivered,UPI,missing_quantity
+ORD-012015,C3093,P039,2025-06-03,999.0,1329.0,0.15,Delivered,Credit Card,quantity_out_of_range
+ORD-004070,C0703,P025,2024-12-23,,23679.0,0.05,Returned,UPI,missing_quantity
+ORD-002086,C1745,P016,2025-04-10,,319.0,0.05,Delivered,UPI,missing_quantity
+ORD-002989,C3520,P002,2024-07-14,3.0,3679.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-015890,C1918,P005,2024-02-29,,459.0,0.1,Delivered,Credit Card,missing_quantity
+ORD-007686,C1628,P002,2024-03-18,-1.0,3679.0,0.05,Cancelled,Net Banking,quantity_out_of_range
+ORD-017487,C5666,P050,2024-10-10,-1.0,1379.0,0.05,Delivered,Net Banking,quantity_out_of_range
+ORD-005450,C5366,P008,2024-02-11,,6349.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-006875,C9999,P024,2025-05-18,5.0,8079.0,0.0,Delivered,Debit Card,unknown_customer_id
+ORD-006931,C2052,P016,2024-01-05,-1.0,319.0,0.2,Delivered,Debit Card,quantity_out_of_range
+ORD-013979,C1816,P045,2025-03-20,,3809.0,0.0,Delivered,Net Banking,missing_quantity
+ORD-014762,C3750,P017,2024-07-16,-1.0,1749.0,0.15,Delivered,UPI,quantity_out_of_range
+ORD-013973,C0692,P058,2024-06-27,,579.0,0.0,Cancelled,Debit Card,missing_quantity
+ORD-003994,C5370,P999,2024-08-12,4.0,7749.0,0.2,Delivered,UPI,unknown_product_id
+ORD-003618,C0480,P037,,1.0,5199.0,0.1,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-014863,C3437,P048,2024-12-19,,2839.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-014360,C9999,P043,2024-04-16,1.0,21459.0,0.2,Delivered,Cash on Delivery,unknown_customer_id
+ORD-012724,C4804,P026,,2.0,1799.0,0.0,Delivered,Credit Card,invalid_or_unparseable_date
+ORD-011377,C5260,P020,2031-01-15,3.0,5159.0,0.0,Delivered,Debit Card,date_out_of_range
+ORD-012682,C0925,P027,2024-01-22,,2309.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-017670,C3496,P044,2024-05-06,,2709.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-013124,C1388,P004,2025-04-29,-1.0,669.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-012129,C3753,P999,2025-01-28,,5159.0,0.0,Returned,Credit Card,missing_quantity
+ORD-014946,C2169,P049,,1.0,20949.0,0.0,Delivered,UPI,invalid_or_unparseable_date
+ORD-005926,C1043,P022,2031-01-15,1.0,419.0,0.1,Delivered,UPI,date_out_of_range
+ORD-017669,C5177,P006,,,8789.0,0.0,Cancelled,Debit Card,invalid_or_unparseable_date
+ORD-019816,C2157,P043,2024-04-27,,21459.0,0.15,Delivered,Credit Card,missing_quantity
+ORD-011689,C3866,P053,2024-12-12,3.0,2399.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-011468,C0602,P043,2025-06-10,-1.0,21459.0,0.0,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-010723,C5029,P046,2025-06-23,,749.0,0.1,Pending,UPI,missing_quantity
+ORD-002744,C1379,P002,2024-10-12,,3679.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-000129,C3444,P020,2024-07-29,,5159.0,0.1,Delivered,UPI,missing_quantity
+ORD-010805,C0374,P040,2024-05-10,,649.0,0.1,Delivered,UPI,missing_quantity
+ORD-014569,C2918,P999,2025-01-15,1.0,23679.0,0.1,Delivered,Debit Card,unknown_product_id
+ORD-015990,C1324,P007,2024-08-16,-1.0,23189.0,0.0,Delivered,Debit Card,quantity_out_of_range
+ORD-015270,C3807,P008,2031-01-15,1.0,6349.0,0.05,Delivered,Net Banking,date_out_of_range
+ORD-011355,C9999,P021,2025-05-16,2.0,3509.0,0.15,Delivered,Credit Card,unknown_customer_id
+ORD-008240,C1997,P034,2025-01-07,,429.0,0.05,Delivered,UPI,missing_quantity
+ORD-005419,C3766,P046,2025-02-17,,749.0,0.0,Delivered,UPI,missing_quantity
+ORD-008872,C0955,P001,2024-11-28,999.0,23559.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-013686,C0163,P056,2024-12-23,,6309.0,0.05,Delivered,UPI,missing_quantity
+ORD-008242,C3049,P006,2024-10-14,-1.0,8789.0,0.1,Delivered,UPI,quantity_out_of_range
+ORD-008343,C2077,P026,2025-01-13,,1799.0,0.0,Delivered,Debit Card,missing_quantity
+ORD-004872,C1826,P999,2024-07-04,4.0,7549.0,0.0,Delivered,UPI,unknown_product_id
+ORD-007360,C4792,P052,2025-01-01,2.0,159.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-019424,C5239,P024,2024-10-03,999.0,8079.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-004601,C3338,P014,2024-11-08,,6639.0,0.1,Delivered,Credit Card,missing_quantity
+ORD-003920,C5372,P004,2024-01-01,-1.0,669.0,0.0,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-017559,C1040,P015,2024-11-16,,2219.0,0.05,Delivered,Debit Card,missing_quantity
+ORD-003699,C5725,P019,2031-01-15,1.0,25089.0,0.1,Delivered,UPI,date_out_of_range
+ORD-017484,C1374,P046,,1.0,749.0,0.0,Delivered,Net Banking,invalid_or_unparseable_date
+ORD-007569,C0415,P029,2024-05-19,-1.0,629.0,0.2,Delivered,Credit Card,quantity_out_of_range
+ORD-014413,C2154,P039,2024-06-11,,1329.0,0.05,Delivered,Debit Card,missing_quantity
+ORD-005140,C4104,P023,,2.0,2919.0,0.0,Delivered,UPI,invalid_or_unparseable_date
+ORD-003695,C5849,P058,2024-11-03,-1.0,579.0,0.0,Delivered,Debit Card,quantity_out_of_range
+ORD-007268,C9999,P022,2024-04-09,1.0,419.0,0.1,Delivered,Debit Card,unknown_customer_id
+ORD-016872,C4582,P999,2025-03-25,2.0,23189.0,0.0,Delivered,Cash on Delivery,unknown_product_id
+ORD-001723,C1546,P031,2024-03-27,,22729.0,0.0,Cancelled,Debit Card,missing_quantity
+ORD-012599,C3452,P030,2024-09-14,,6259.0,0.1,Delivered,Credit Card,missing_quantity
+ORD-000020,C9999,P012,2024-01-25,2.0,8369.0,0.05,Delivered,UPI,unknown_customer_id
+ORD-019152,C4984,P019,2024-01-23,5.0,25089.0,0.95,Delivered,Credit Card,discount_out_of_range
+ORD-010158,C5130,P008,,1.0,6349.0,0.0,Cancelled,UPI,invalid_or_unparseable_date
+ORD-002426,C1166,P006,2025-05-27,,8789.0,0.1,Delivered,Credit Card,missing_quantity
+ORD-019001,C2485,P030,2024-09-26,-1.0,6259.0,0.15,Delivered,UPI,quantity_out_of_range
+ORD-004220,C4340,P050,,1.0,1379.0,0.0,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-008688,C3970,P018,2024-09-04,,899.0,0.05,Delivered,Debit Card,missing_quantity
+ORD-014607,C2034,P041,2024-07-28,-1.0,1419.0,0.1,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-006312,C1322,P999,2024-12-19,1.0,21459.0,0.0,Delivered,Debit Card,unknown_product_id
+ORD-018311,C4187,P041,2024-11-11,,1419.0,0.1,Delivered,UPI,missing_quantity
+ORD-012526,C1524,P030,2025-01-16,-1.0,6259.0,0.0,Cancelled,UPI,quantity_out_of_range
+ORD-018488,C5093,P046,2024-02-05,-1.0,749.0,0.0,Delivered,Net Banking,quantity_out_of_range
+ORD-016085,C3405,P047,2025-02-01,999.0,1279.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-002272,C1287,P034,2031-01-15,2.0,429.0,0.0,Delivered,UPI,date_out_of_range
+ORD-017677,C0793,P017,2025-02-09,-1.0,1749.0,0.05,Delivered,Credit Card,quantity_out_of_range
+ORD-007649,C1947,P035,2025-03-07,,1509.0,0.0,Delivered,UPI,missing_quantity
+ORD-002610,C5403,P029,2024-07-04,,629.0,0.05,Delivered,UPI,missing_quantity
+ORD-015273,C9999,P009,2024-11-27,1.0,929.0,0.0,Delivered,Credit Card,unknown_customer_id
+ORD-007829,C3886,P052,2024-10-26,,159.0,0.2,Delivered,Credit Card,missing_quantity
+ORD-001412,C0377,P999,2024-12-19,3.0,2839.0,0.05,Delivered,Debit Card,unknown_product_id
+ORD-006040,C1814,P038,2024-11-02,,3959.0,0.0,Delivered,Cash on Delivery,missing_quantity
+ORD-015019,C3051,P999,2024-12-20,2.0,8079.0,0.05,Delivered,UPI,unknown_product_id
+ORD-017923,C9999,P010,2024-08-03,4.0,489.0,0.05,Delivered,Credit Card,unknown_customer_id
+ORD-012291,C3723,P043,2024-03-05,,21459.0,0.1,Pending,UPI,missing_quantity
+ORD-002954,C9999,P029,2024-03-09,1.0,629.0,0.0,Delivered,Debit Card,unknown_customer_id
+ORD-012555,C2474,P027,2024-06-29,999.0,2309.0,0.0,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-019228,C4771,P037,2024-11-04,,5199.0,0.0,Delivered,UPI,missing_quantity
+ORD-018950,C2705,P046,2025-01-01,,749.0,0.05,Delivered,UPI,missing_quantity
+ORD-010680,C4147,P038,,3.0,3959.0,0.0,Cancelled,Credit Card,invalid_or_unparseable_date
+ORD-014625,C1382,P003,2025-02-28,-1.0,3919.0,0.1,Delivered,Credit Card,quantity_out_of_range
+ORD-004833,C1050,P008,2024-08-03,,6349.0,0.0,Delivered,UPI,missing_quantity
+ORD-010985,C4219,P004,2024-02-01,1.0,669.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-001319,C3209,P029,2031-01-15,3.0,629.0,0.0,Cancelled,Net Banking,date_out_of_range
+ORD-012597,C2055,P045,2024-10-17,,3809.0,0.0,Delivered,Net Banking,missing_quantity
+ORD-009924,C1231,P007,2024-01-19,,23189.0,0.0,Delivered,UPI,missing_quantity
+ORD-016584,C9999,P048,2025-03-23,1.0,2839.0,0.05,Delivered,Cash on Delivery,unknown_customer_id
+ORD-014858,C4814,P051,2024-09-05,-1.0,1219.0,0.2,Delivered,Debit Card,quantity_out_of_range
+ORD-008826,C9999,P032,2024-03-30,5.0,7749.0,0.15,Delivered,UPI,unknown_customer_id
+ORD-005643,C9999,P041,2024-07-12,1.0,1419.0,0.15,Delivered,UPI,unknown_customer_id
+ORD-018975,C4021,P025,2025-03-17,-1.0,23679.0,0.1,Delivered,UPI,quantity_out_of_range
+ORD-008864,C1050,P038,2025-01-23,,3959.0,0.05,Delivered,Credit Card,missing_quantity
+ORD-019439,C1723,P049,2024-06-08,-1.0,20949.0,0.1,Delivered,UPI,quantity_out_of_range
+ORD-002814,C4104,P019,2024-12-02,999.0,25089.0,0.05,Delivered,UPI,quantity_out_of_range
+ORD-006587,C1020,P046,2024-09-18,999.0,749.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-003527,C2992,P046,2025-03-09,,749.0,0.95,Delivered,UPI,missing_quantity
+ORD-000378,C4990,P038,2024-03-15,,3959.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-007435,C2060,P999,2024-12-21,4.0,,0.0,Delivered,Credit Card,unknown_product_id
+ORD-003289,C9999,P017,2024-10-20,-1.0,1749.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-019579,C5792,P999,2024-02-01,1.0,2839.0,0.15,Delivered,Credit Card,unknown_product_id
+ORD-013534,C1460,P009,,4.0,929.0,0.0,Delivered,UPI,invalid_or_unparseable_date
+ORD-016296,C2645,P048,2024-10-18,,2839.0,0.1,Pending,UPI,missing_quantity
+ORD-006393,C1904,P050,2024-06-19,,1379.0,0.0,Delivered,Net Banking,missing_quantity
+ORD-003835,C1308,P999,2025-03-01,1.0,1339.0,0.0,Delivered,Debit Card,unknown_product_id
+ORD-018243,C3940,P040,2025-03-12,1.0,649.0,0.95,Delivered,Credit Card,discount_out_of_range
+ORD-015777,C1460,P036,2024-01-03,2.0,1989.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-003789,C3411,P045,2025-04-15,1.0,3809.0,0.95,Delivered,Debit Card,discount_out_of_range
+ORD-015754,C3117,P035,2025-01-27,999.0,1509.0,0.1,Delivered,UPI,quantity_out_of_range
+ORD-012690,C2168,P048,2025-04-29,-1.0,2839.0,0.1,Delivered,UPI,quantity_out_of_range
+ORD-010227,C3185,P025,2025-01-04,,23679.0,0.05,Delivered,UPI,missing_quantity
+ORD-012681,C4992,P053,2025-01-17,-1.0,2399.0,0.1,Delivered,UPI,quantity_out_of_range
+ORD-013594,C9999,P060,2024-07-21,1.0,1339.0,0.0,Delivered,Credit Card,unknown_customer_id
+ORD-005413,C0513,P043,2024-04-10,-1.0,21459.0,0.05,Delivered,UPI,quantity_out_of_range
+ORD-014005,C1520,P025,,1.0,23679.0,0.05,Delivered,UPI,invalid_or_unparseable_date
+ORD-017914,C3437,P044,2024-12-02,-1.0,2709.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-003614,C3919,P052,2024-07-11,,159.0,0.05,Delivered,Credit Card,missing_quantity
+ORD-011194,C9999,P059,2024-10-05,1.0,589.0,0.1,Delivered,UPI,unknown_customer_id
+ORD-004808,C5703,P024,2024-10-31,,8079.0,0.1,Delivered,Credit Card,missing_quantity
+ORD-014982,C1288,P006,2025-06-23,-1.0,8789.0,0.0,Delivered,Debit Card,quantity_out_of_range
+ORD-007622,C2889,P054,,1.0,6099.0,0.1,Delivered,UPI,invalid_or_unparseable_date
+ORD-013940,C3204,P012,2025-04-03,-1.0,8369.0,0.05,Delivered,UPI,quantity_out_of_range
+ORD-009264,C4318,P028,2024-03-16,-1.0,179.0,0.0,Delivered,Net Banking,quantity_out_of_range
+ORD-009943,C3118,P025,2024-04-22,3.0,23679.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-016848,C3854,P044,,1.0,2709.0,0.15,Returned,UPI,invalid_or_unparseable_date
+ORD-010216,C3807,P037,,1.0,5199.0,0.15,Delivered,Credit Card,invalid_or_unparseable_date
+ORD-013645,C0194,P024,,2.0,8079.0,0.1,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-003762,C1862,P024,2025-01-17,,8079.0,0.05,Delivered,Net Banking,missing_quantity
+ORD-018979,C1893,P043,2024-01-07,1.0,21459.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-008893,C3626,P020,2025-01-17,-1.0,5159.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-015703,C3463,P036,,5.0,1989.0,0.0,Delivered,Cash on Delivery,invalid_or_unparseable_date
+ORD-015580,C1666,P030,,2.0,6259.0,0.05,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-017735,C0033,P039,2031-01-15,1.0,1329.0,0.05,Delivered,Credit Card,date_out_of_range
+ORD-011829,C2117,P040,2024-12-26,-1.0,649.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-009936,C2388,P025,2024-01-19,,23679.0,0.2,Delivered,UPI,missing_quantity
+ORD-008569,C4445,P016,2024-11-17,3.0,319.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-010810,C3350,P018,2024-05-17,-1.0,899.0,0.95,Delivered,Debit Card,quantity_out_of_range
+ORD-007276,C2857,P008,2024-04-03,,6349.0,0.1,Delivered,UPI,missing_quantity
+ORD-001644,C1892,P059,2024-02-24,-1.0,589.0,0.0,Delivered,Debit Card,quantity_out_of_range
+ORD-004502,C5868,P017,2024-01-02,-1.0,1749.0,0.15,Delivered,Debit Card,quantity_out_of_range
+ORD-003194,C4442,P011,2024-12-20,-1.0,1239.0,0.15,Delivered,UPI,quantity_out_of_range
+ORD-010782,C4661,P027,2031-01-15,1.0,2309.0,0.0,Delivered,UPI,date_out_of_range
+ORD-010217,C0819,P048,2024-10-19,999.0,2839.0,0.05,Delivered,UPI,quantity_out_of_range
+ORD-008851,C2921,P023,2024-10-26,,2919.0,0.2,Delivered,Net Banking,missing_quantity
+ORD-007628,C1796,P042,2025-03-18,,7549.0,0.0,Delivered,UPI,missing_quantity
+ORD-016718,C4194,P999,2025-02-12,4.0,1379.0,0.0,Delivered,Debit Card,unknown_product_id
+ORD-005870,C4879,P045,2025-03-16,-1.0,3809.0,0.2,Delivered,Credit Card,quantity_out_of_range
+ORD-017166,C2965,P008,2031-01-15,1.0,6349.0,0.0,Delivered,Net Banking,date_out_of_range
+ORD-005859,C5110,P006,2025-01-09,999.0,8789.0,0.0,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-001847,C4095,P003,2024-12-02,,3919.0,0.15,Delivered,UPI,missing_quantity
+ORD-006880,C2160,P035,2024-11-05,,1509.0,0.15,Cancelled,UPI,missing_quantity
+ORD-011130,C3412,P024,,2.0,8079.0,0.0,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-007331,C4634,P006,,1.0,8789.0,0.0,Delivered,UPI,invalid_or_unparseable_date
+ORD-013787,C9999,P051,2025-01-17,4.0,1219.0,0.0,Delivered,Credit Card,unknown_customer_id
+ORD-009802,C1174,P039,2024-09-13,,1329.0,0.15,Returned,UPI,missing_quantity
+ORD-002479,C4770,P060,2024-11-15,,1339.0,0.0,Delivered,UPI,missing_quantity
+ORD-008077,C5572,P045,2024-10-17,,3809.0,0.1,Delivered,Credit Card,missing_quantity
+ORD-014499,C3693,P051,,1.0,1219.0,0.0,Returned,Debit Card,invalid_or_unparseable_date
+ORD-016144,C3527,P047,2025-01-09,,1279.0,0.0,Delivered,UPI,missing_quantity
+ORD-011342,C1434,P053,2024-11-22,999.0,2399.0,0.2,Delivered,Net Banking,quantity_out_of_range
+ORD-005432,C2177,P028,2024-07-03,,179.0,0.1,Delivered,UPI,missing_quantity
+ORD-015704,C9999,P026,2025-03-22,3.0,1799.0,0.0,Pending,Debit Card,unknown_customer_id
+ORD-000982,C0854,P053,2031-01-15,3.0,2399.0,0.15,Delivered,Credit Card,date_out_of_range
+ORD-004835,C4539,P052,2024-04-03,999.0,159.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-009210,C0415,P050,2024-11-17,,1379.0,0.1,Delivered,UPI,missing_quantity
+ORD-018192,C0854,P024,2031-01-15,2.0,8079.0,0.1,Returned,UPI,date_out_of_range
+ORD-003814,C0395,P999,2024-12-03,3.0,22729.0,0.0,Delivered,Credit Card,unknown_product_id
+ORD-001123,C3956,P060,,1.0,1339.0,0.1,Returned,Cash on Delivery,invalid_or_unparseable_date
+ORD-018751,C4135,P028,2024-10-31,,179.0,0.1,Returned,UPI,missing_quantity
+ORD-011399,C4252,P999,2024-08-14,1.0,23679.0,0.0,Delivered,Cash on Delivery,unknown_product_id
+ORD-015173,C0809,P010,2024-12-01,999.0,489.0,0.05,Delivered,Debit Card,quantity_out_of_range
+ORD-002529,C0480,P999,2024-12-16,5.0,7749.0,0.1,Cancelled,Credit Card,unknown_product_id
+ORD-006689,C1412,P999,2024-03-29,3.0,2919.0,0.0,Delivered,UPI,unknown_product_id
+ORD-003448,C0897,P053,2025-04-02,,2399.0,0.15,Delivered,Debit Card,missing_quantity
+ORD-018430,C2147,P037,2025-03-28,,5199.0,0.0,Delivered,UPI,missing_quantity
+ORD-006673,C3221,P058,2025-05-24,999.0,579.0,0.15,Delivered,UPI,quantity_out_of_range
+ORD-003878,C4988,P999,2024-11-19,3.0,5159.0,0.2,Delivered,Credit Card,unknown_product_id
+ORD-005070,C0689,P016,,1.0,319.0,0.05,Returned,Cash on Delivery,invalid_or_unparseable_date
+ORD-014830,C2172,P037,,3.0,5199.0,0.0,Delivered,UPI,invalid_or_unparseable_date
+ORD-013584,C0975,P009,2025-06-19,,929.0,0.15,Delivered,Cash on Delivery,missing_quantity
+ORD-019392,C9999,P043,2024-09-29,1.0,21459.0,0.0,Delivered,UPI,unknown_customer_id
+ORD-004455,C5841,P022,2025-03-02,-1.0,419.0,0.2,Delivered,Net Banking,quantity_out_of_range
+ORD-001576,C3599,P038,2024-03-06,,3959.0,0.2,Delivered,Net Banking,missing_quantity
+ORD-014930,C4415,P047,2024-08-07,,1279.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-016285,C9999,P004,2025-05-19,2.0,669.0,0.05,Delivered,UPI,unknown_customer_id
+ORD-000593,C1395,P058,2025-06-18,-1.0,579.0,0.2,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-015256,C0502,P003,2025-03-18,999.0,3919.0,0.0,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-002223,C3882,P017,2024-06-29,2.0,1749.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-001275,C5666,P999,2024-04-05,4.0,23679.0,0.0,Delivered,Cash on Delivery,unknown_product_id
+ORD-011609,C5583,P016,2025-05-05,-1.0,319.0,0.05,Cancelled,Cash on Delivery,quantity_out_of_range
+ORD-019027,C3369,P003,2024-06-26,,3919.0,0.1,Delivered,UPI,missing_quantity
+ORD-019649,C3616,P040,2025-02-28,-1.0,649.0,0.2,Delivered,UPI,quantity_out_of_range
+ORD-004852,C3419,P041,2025-01-09,,1419.0,0.1,Delivered,Credit Card,missing_quantity
+ORD-015192,C9999,P025,2025-02-25,1.0,23679.0,0.1,Delivered,Net Banking,unknown_customer_id
+ORD-013385,C4286,P023,,1.0,2919.0,0.1,Delivered,UPI,invalid_or_unparseable_date
+ORD-002738,C4552,P060,2025-05-02,2.0,1339.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-014237,C5748,P004,2025-03-29,999.0,669.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-008937,C4027,P021,2024-05-09,,3509.0,0.1,Cancelled,Debit Card,missing_quantity
+ORD-018932,C3197,P029,,4.0,629.0,0.1,Cancelled,Debit Card,invalid_or_unparseable_date
+ORD-013915,C5299,P026,2025-03-03,,1799.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-007034,C2638,P053,2025-02-24,,2399.0,0.0,Delivered,UPI,missing_quantity
+ORD-010237,C4010,P035,2024-09-12,3.0,1509.0,0.95,Delivered,Cash on Delivery,discount_out_of_range
+ORD-011944,C3541,P005,2024-01-22,,459.0,0.2,Delivered,Credit Card,missing_quantity
+ORD-013633,C4330,P034,2024-12-18,3.0,429.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-013511,C9999,P002,2025-04-05,1.0,3679.0,0.0,Delivered,Debit Card,unknown_customer_id
+ORD-010000,C4062,P046,2024-08-01,,749.0,0.1,Delivered,Credit Card,missing_quantity
+ORD-006539,C5257,P038,2024-06-18,999.0,3959.0,0.05,Delivered,Net Banking,quantity_out_of_range
+ORD-008104,C2856,P055,2024-01-07,4.0,21599.0,0.95,Pending,Debit Card,discount_out_of_range
+ORD-008509,C0170,P036,2024-08-02,,1989.0,0.0,Delivered,Cash on Delivery,missing_quantity
+ORD-003439,C2364,P018,2024-12-27,999.0,899.0,0.1,Delivered,Credit Card,quantity_out_of_range
+ORD-001255,C4036,P019,2031-01-15,1.0,25089.0,0.0,Returned,Debit Card,date_out_of_range
+ORD-001077,C0294,P028,2024-06-21,,179.0,0.2,Delivered,Net Banking,missing_quantity
+ORD-015500,C3408,P023,2024-10-18,,2919.0,0.2,Delivered,UPI,missing_quantity
+ORD-002332,C4131,P999,2025-06-13,3.0,2279.0,0.0,Delivered,UPI,unknown_product_id
+ORD-009130,C1239,P014,2024-04-28,,6639.0,0.05,Delivered,Net Banking,missing_quantity
+ORD-015874,C0163,P023,2025-05-20,,2919.0,0.1,Delivered,Credit Card,missing_quantity
+ORD-017684,C2383,P054,2024-03-14,-1.0,6099.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-017942,C1277,P060,2025-01-10,-1.0,1339.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-015891,C5286,P052,2025-05-11,-1.0,159.0,0.2,Delivered,Debit Card,quantity_out_of_range
+ORD-009015,C3835,P003,2024-05-09,,3919.0,0.1,Delivered,UPI,missing_quantity
+ORD-004097,C0615,P017,2024-08-18,-1.0,1749.0,0.05,Delivered,UPI,quantity_out_of_range
+ORD-018559,C0688,P022,2031-01-15,2.0,419.0,0.0,Delivered,Net Banking,date_out_of_range
+ORD-002528,C5864,P999,2025-02-01,1.0,20949.0,0.0,Delivered,Net Banking,unknown_product_id
+ORD-012631,C2703,P999,2024-08-15,1.0,1419.0,0.2,Delivered,Credit Card,unknown_product_id
+ORD-005285,C9999,P043,2025-04-26,1.0,21459.0,0.0,Delivered,Credit Card,unknown_customer_id
+ORD-013858,C2057,P005,,1.0,459.0,0.0,Delivered,UPI,invalid_or_unparseable_date
+ORD-009453,C4518,P999,2025-05-24,4.0,579.0,0.1,Delivered,Cash on Delivery,unknown_product_id
+ORD-011367,C9999,P027,2025-02-07,2.0,2309.0,0.1,Delivered,UPI,unknown_customer_id
+ORD-015168,C9999,P057,2024-10-05,1.0,2279.0,0.0,Delivered,Net Banking,unknown_customer_id
+ORD-016361,C3924,P004,2024-12-14,,669.0,0.05,Delivered,Net Banking,missing_quantity
+ORD-001409,C4041,P038,2024-12-10,,3959.0,0.1,Delivered,UPI,missing_quantity
+ORD-009055,C9999,P039,2025-01-03,2.0,1329.0,0.0,Delivered,UPI,unknown_customer_id
+ORD-000892,C2207,P007,2024-11-19,999.0,23189.0,0.15,Delivered,Credit Card,quantity_out_of_range
+ORD-005911,C5978,P041,2024-10-28,,1419.0,0.1,Delivered,Debit Card,missing_quantity
+ORD-017427,C2054,P017,,2.0,1749.0,0.2,Delivered,UPI,invalid_or_unparseable_date
+ORD-010194,C9999,P059,2024-06-22,1.0,589.0,0.1,Delivered,Net Banking,unknown_customer_id
+ORD-008892,C5433,P016,,2.0,319.0,0.05,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-000062,C4354,P034,2031-01-15,2.0,429.0,0.05,Delivered,Credit Card,date_out_of_range
+ORD-011934,C2799,P057,,5.0,2279.0,0.05,Delivered,Net Banking,invalid_or_unparseable_date
+ORD-001624,C9999,P014,2024-12-31,1.0,6639.0,0.0,Delivered,Cash on Delivery,unknown_customer_id
+ORD-008133,C0134,P028,2024-12-31,-1.0,179.0,0.0,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-004765,C3693,P015,2024-10-05,,2219.0,0.15,Delivered,Debit Card,missing_quantity
+ORD-015193,C0497,P006,,1.0,8789.0,0.0,Returned,Debit Card,invalid_or_unparseable_date
+ORD-018209,C4116,P051,2025-02-18,-1.0,1219.0,0.2,Delivered,UPI,quantity_out_of_range
+ORD-008453,C0560,P019,2025-03-24,,25089.0,0.1,Pending,Debit Card,missing_quantity
+ORD-014802,C1227,P041,2025-03-06,,1419.0,0.1,Delivered,Cash on Delivery,missing_quantity
+ORD-014559,C5563,P041,2024-12-23,,1419.0,0.1,Delivered,Credit Card,missing_quantity
+ORD-003525,C5516,P055,2024-07-02,1.0,21599.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-017784,C4391,P021,,2.0,3509.0,0.1,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-010361,C9999,P042,2025-05-12,1.0,7549.0,0.0,Delivered,Cash on Delivery,unknown_customer_id
+ORD-010085,C0108,P057,2025-04-05,-1.0,2279.0,0.05,Cancelled,UPI,quantity_out_of_range
+ORD-011744,C9999,P028,2025-05-28,3.0,179.0,0.1,Delivered,UPI,unknown_customer_id
+ORD-003397,C9999,P013,2024-05-23,4.0,19849.0,0.05,Delivered,UPI,unknown_customer_id
+ORD-017701,C1836,P057,2025-05-12,-1.0,2279.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-003050,C1893,P053,2024-11-28,999.0,2399.0,0.15,Cancelled,Debit Card,quantity_out_of_range
+ORD-003953,C3461,P060,2024-08-06,,1339.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-018203,C3850,P045,2025-05-01,-1.0,3809.0,0.05,Delivered,Debit Card,quantity_out_of_range
+ORD-006908,C3082,P047,2024-08-11,,1279.0,0.05,Delivered,Debit Card,missing_quantity
+ORD-011558,C0602,P024,2024-08-10,,8079.0,0.1,Delivered,Credit Card,missing_quantity
+ORD-008063,C0800,P047,2024-03-05,1.0,1279.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-012059,C9999,P007,2024-11-18,2.0,23189.0,0.0,Delivered,Cash on Delivery,unknown_customer_id
+ORD-012594,C4439,P025,2025-05-13,,23679.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-009595,C4408,P010,2031-01-15,1.0,489.0,0.0,Delivered,UPI,date_out_of_range
+ORD-015943,C1179,P002,2024-07-10,-1.0,3679.0,0.1,Delivered,UPI,quantity_out_of_range
+ORD-018424,C3967,P003,2024-08-13,-1.0,3919.0,0.2,Delivered,Net Banking,quantity_out_of_range
+ORD-015510,C3110,P999,2024-04-20,1.0,2219.0,0.05,Delivered,Cash on Delivery,unknown_product_id
+ORD-017173,C9999,P002,2024-02-02,3.0,3679.0,0.2,Delivered,UPI,unknown_customer_id
+ORD-009656,C5373,P018,2024-11-07,,899.0,0.0,Cancelled,Cash on Delivery,missing_quantity
+ORD-000643,C0644,P048,2025-01-21,-1.0,2839.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-011302,C1269,P039,2024-12-31,-1.0,1329.0,0.0,Delivered,Debit Card,quantity_out_of_range
+ORD-008846,C3541,P046,2031-01-15,1.0,749.0,0.1,Delivered,Cash on Delivery,date_out_of_range
+ORD-010002,C9999,P015,2024-04-17,4.0,2219.0,0.05,Delivered,Debit Card,unknown_customer_id
+ORD-006622,C2231,P057,,4.0,2279.0,0.15,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-006206,C2617,P050,2024-05-27,,1379.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-001657,C5868,P054,2024-01-25,-1.0,6099.0,0.05,Delivered,Net Banking,quantity_out_of_range
+ORD-016335,C1766,P999,2031-01-15,3.0,1799.0,0.1,Delivered,UPI,date_out_of_range
+ORD-004873,C1460,P999,2025-02-07,1.0,459.0,0.0,Delivered,Credit Card,unknown_product_id
+ORD-015894,C0840,P003,2024-09-18,,3919.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-004971,C2982,P016,2024-12-09,,319.0,0.0,Delivered,Cash on Delivery,missing_quantity
+ORD-015267,C2055,P026,2024-11-05,-1.0,1799.0,0.05,Delivered,UPI,quantity_out_of_range
+ORD-015743,C9999,P020,2024-12-07,2.0,5159.0,0.1,Delivered,UPI,unknown_customer_id
+ORD-004841,C3211,P004,2031-01-15,1.0,669.0,0.2,Delivered,Debit Card,date_out_of_range
+ORD-015939,C9999,P017,2025-06-06,2.0,1749.0,0.0,Delivered,Debit Card,unknown_customer_id
+ORD-019631,C4416,P037,2025-02-21,-1.0,5199.0,0.05,Delivered,UPI,quantity_out_of_range
+ORD-006680,C4721,P048,2031-01-15,1.0,2839.0,0.15,Cancelled,UPI,date_out_of_range
+ORD-007036,C9999,P052,2024-07-02,1.0,159.0,0.05,Delivered,UPI,unknown_customer_id
+ORD-012292,C3981,P059,2031-01-15,3.0,589.0,0.1,Delivered,UPI,date_out_of_range
+ORD-013054,C2548,P999,2024-08-20,1.0,23189.0,0.15,Returned,Credit Card,unknown_product_id
+ORD-012926,C3817,P004,2024-02-14,,669.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-003276,C0056,P027,2031-01-15,2.0,2309.0,0.0,Delivered,UPI,date_out_of_range
+ORD-010409,C5863,P999,2024-09-12,1.0,459.0,0.0,Delivered,Debit Card,unknown_product_id
+ORD-012643,C1460,P004,2031-01-15,1.0,669.0,0.0,Delivered,Credit Card,date_out_of_range
+ORD-016892,C9999,P026,2024-05-28,1.0,1799.0,0.0,Delivered,Cash on Delivery,unknown_customer_id
+ORD-015042,C3753,P028,2024-02-13,4.0,179.0,0.95,Delivered,Credit Card,discount_out_of_range
+ORD-017890,C5692,P039,2025-06-11,,1329.0,0.0,Delivered,UPI,missing_quantity
+ORD-000331,C5299,P055,2025-01-02,,21599.0,0.2,Delivered,Cash on Delivery,missing_quantity
+ORD-015908,C4045,P037,2031-01-15,1.0,5199.0,0.0,Returned,Net Banking,date_out_of_range
+ORD-016025,C9999,P015,2024-05-28,4.0,2219.0,0.2,Delivered,UPI,unknown_customer_id
+ORD-007972,C9999,P009,2024-11-15,4.0,929.0,0.0,Delivered,Net Banking,unknown_customer_id
+ORD-005680,C2979,P999,2025-02-07,1.0,1379.0,0.0,Delivered,UPI,unknown_product_id
+ORD-004747,C3416,P031,2025-04-19,,22729.0,0.1,Delivered,UPI,missing_quantity
+ORD-009571,C3272,P053,2024-11-24,1.0,2399.0,0.95,Delivered,Cash on Delivery,discount_out_of_range
+ORD-004251,C9999,P019,2025-02-05,1.0,25089.0,0.2,Delivered,UPI,unknown_customer_id
+ORD-019520,C5718,P046,2024-04-27,,749.0,0.05,Returned,Credit Card,missing_quantity
+ORD-019474,C2827,P044,2025-05-25,,2709.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-003280,C0891,P044,2025-01-09,,2709.0,0.1,Delivered,UPI,missing_quantity
+ORD-018169,C1276,P054,2024-07-03,,6099.0,0.05,Delivered,Net Banking,missing_quantity
+ORD-019092,C0349,P058,2024-10-23,,579.0,0.1,Delivered,Cash on Delivery,missing_quantity
+ORD-010599,C2526,P049,2024-10-25,-1.0,20949.0,0.2,Delivered,Net Banking,quantity_out_of_range
+ORD-002868,C1753,P013,2031-01-15,1.0,19849.0,0.05,Delivered,Debit Card,date_out_of_range
+ORD-016327,C5373,P016,2024-09-21,,319.0,0.15,Delivered,UPI,missing_quantity
+ORD-017324,C9999,P019,2025-05-08,2.0,25089.0,0.15,Delivered,Credit Card,unknown_customer_id
+ORD-012629,C2749,P040,2024-12-18,999.0,649.0,0.1,Delivered,Credit Card,quantity_out_of_range
+ORD-001258,C2685,P029,2024-05-26,,629.0,0.05,Delivered,UPI,missing_quantity
+ORD-010563,C1634,P010,,4.0,489.0,0.0,Delivered,Credit Card,invalid_or_unparseable_date
+ORD-001472,C4214,P047,2024-03-15,999.0,1279.0,0.1,Delivered,UPI,quantity_out_of_range
+ORD-017151,C0415,P016,2024-11-04,,319.0,0.0,Delivered,UPI,missing_quantity
+ORD-015728,C4112,P029,2024-07-14,999.0,629.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-007641,C1394,P035,2025-05-23,,1509.0,0.2,Delivered,Credit Card,missing_quantity
+ORD-001435,C9999,P045,2024-07-06,1.0,3809.0,0.2,Delivered,Credit Card,unknown_customer_id
+ORD-008585,C4020,P999,2024-10-09,1.0,1239.0,0.0,Cancelled,UPI,unknown_product_id
+ORD-005114,C0925,P047,2025-05-13,-1.0,1279.0,0.1,Delivered,UPI,quantity_out_of_range
+ORD-003398,C0736,P024,2025-06-09,,8079.0,0.0,Delivered,Net Banking,missing_quantity
+ORD-003964,C5118,P037,2024-09-16,-1.0,5199.0,0.0,Delivered,Net Banking,quantity_out_of_range
+ORD-006193,C0226,P016,,1.0,319.0,0.0,Delivered,UPI,invalid_or_unparseable_date
+ORD-005958,C3627,P056,2025-04-21,2.0,6309.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-001265,C0271,P020,2024-10-26,,5159.0,0.0,Delivered,Debit Card,missing_quantity
+ORD-014508,C9999,P012,2024-05-25,2.0,8369.0,0.05,Delivered,Credit Card,unknown_customer_id
+ORD-012871,C5700,P036,2024-09-01,-1.0,1989.0,0.0,Cancelled,UPI,quantity_out_of_range
+ORD-015641,C3788,P041,,2.0,1419.0,0.2,Cancelled,Net Banking,invalid_or_unparseable_date
+ORD-011833,C0671,P046,2025-02-02,,749.0,0.0,Delivered,UPI,missing_quantity
+ORD-010606,C5645,P999,2024-09-14,1.0,3509.0,0.1,Delivered,Debit Card,unknown_product_id
+ORD-017180,C2933,P027,2024-10-27,-1.0,2309.0,0.0,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-003425,C0925,P999,2024-08-09,1.0,2709.0,0.0,Delivered,Debit Card,unknown_product_id
+ORD-014128,C0829,P004,2024-04-09,-1.0,669.0,0.0,Delivered,Debit Card,quantity_out_of_range
+ORD-004095,C2044,P012,2024-09-17,-1.0,8369.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-007127,C9999,P050,2024-06-25,1.0,1379.0,0.0,Delivered,UPI,unknown_customer_id
+ORD-018833,C3760,P055,,1.0,21599.0,0.05,Delivered,Cash on Delivery,invalid_or_unparseable_date
+ORD-012664,C2331,P055,2024-06-07,,21599.0,0.15,Delivered,UPI,missing_quantity
+ORD-011177,C4252,P029,2024-06-19,1.0,629.0,0.95,Delivered,Credit Card,discount_out_of_range
+ORD-008752,C2982,P057,2024-07-11,,2279.0,0.0,Pending,UPI,missing_quantity
+ORD-003952,C5362,P044,2024-10-28,,2709.0,0.05,Delivered,Cash on Delivery,missing_quantity
+ORD-013056,C2021,P003,2024-06-01,,3919.0,0.15,Delivered,Credit Card,missing_quantity
+ORD-017099,C3438,P041,2025-01-16,-1.0,1419.0,0.1,Delivered,UPI,quantity_out_of_range
+ORD-000254,C2094,P055,2024-06-01,,21599.0,0.0,Delivered,UPI,missing_quantity
+ORD-011793,C4412,P032,2025-03-16,-1.0,7749.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-002485,C4415,P004,2025-01-13,-1.0,669.0,0.0,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-007029,C3360,P002,2025-04-13,,3679.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-009025,C4519,P020,2024-03-15,-1.0,5159.0,0.1,Delivered,UPI,quantity_out_of_range
+ORD-006619,C5308,P015,2031-01-15,1.0,2219.0,0.05,Delivered,Cash on Delivery,date_out_of_range
+ORD-018453,C5460,P047,,1.0,1279.0,0.15,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-005592,C0102,P049,2025-01-13,,20949.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-014886,C3202,P999,2024-10-31,1.0,2709.0,0.0,Delivered,UPI,unknown_product_id
+ORD-015491,C1482,P048,2031-01-15,4.0,2839.0,0.1,Delivered,Net Banking,date_out_of_range
+ORD-016873,C0769,P035,2025-05-29,-1.0,1509.0,0.0,Cancelled,Credit Card,quantity_out_of_range
+ORD-001407,C4468,P999,2025-03-29,5.0,319.0,0.0,Delivered,Debit Card,unknown_product_id
+ORD-000917,C1322,P029,2024-12-29,1.0,629.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-015301,C3164,P006,2025-03-06,-1.0,8789.0,0.1,Delivered,Debit Card,quantity_out_of_range
+ORD-014921,C3471,P028,2024-01-06,-1.0,179.0,0.1,Delivered,UPI,quantity_out_of_range
+ORD-010706,C2782,P999,2025-02-11,1.0,2709.0,0.0,Cancelled,Net Banking,unknown_product_id
+ORD-003758,C5435,P017,2024-10-01,-1.0,1749.0,0.15,Delivered,UPI,quantity_out_of_range
+ORD-003219,C3998,P060,2024-10-18,,1339.0,0.1,Delivered,Credit Card,missing_quantity
+ORD-012901,C0823,P045,2024-11-07,,3809.0,0.1,Delivered,Net Banking,missing_quantity
+ORD-003140,C2038,P999,2024-07-26,1.0,1989.0,0.0,Delivered,UPI,unknown_product_id
+ORD-009405,C3834,P024,2024-12-09,,8079.0,0.05,Cancelled,Credit Card,missing_quantity
+ORD-015441,C1279,P999,2024-12-14,1.0,1749.0,0.0,Returned,UPI,unknown_product_id
+ORD-002964,C0203,P040,2025-03-26,999.0,649.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-005168,C2139,P022,,2.0,419.0,0.15,Delivered,Cash on Delivery,invalid_or_unparseable_date
+ORD-009373,C2188,P018,2024-07-27,2.0,899.0,0.95,Delivered,Cash on Delivery,discount_out_of_range
+ORD-014095,C4922,P999,2024-10-08,1.0,459.0,0.0,Cancelled,Net Banking,unknown_product_id
+ORD-003007,C1581,P999,2024-01-21,1.0,1989.0,0.0,Delivered,Cash on Delivery,unknown_product_id
+ORD-010886,C1452,P999,2024-10-19,1.0,19849.0,0.1,Delivered,Cash on Delivery,unknown_product_id
+ORD-000907,C0562,P057,2024-07-07,-1.0,2279.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-012308,C4837,P042,2024-03-29,-1.0,7549.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-013762,C0389,P014,2024-11-01,,6639.0,0.0,Delivered,UPI,missing_quantity
+ORD-000296,C3469,P022,2024-01-08,,419.0,0.0,Delivered,UPI,missing_quantity
+ORD-003183,C5198,P030,2024-01-15,,6259.0,0.1,Delivered,Credit Card,missing_quantity
+ORD-000604,C0271,P035,2025-04-08,,1509.0,0.15,Cancelled,Debit Card,missing_quantity
+ORD-010825,C5105,P036,2024-02-28,,1989.0,0.05,Returned,Debit Card,missing_quantity
+ORD-006803,C5808,P059,2024-06-10,-1.0,589.0,0.1,Delivered,UPI,quantity_out_of_range
+ORD-003874,C1932,P002,2024-06-29,-1.0,3679.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-005959,C9999,P048,2025-06-24,1.0,2839.0,0.0,Delivered,Credit Card,unknown_customer_id
+ORD-007742,C4518,P999,2025-06-11,2.0,20949.0,0.1,Delivered,Debit Card,unknown_product_id
+ORD-014738,C1958,P008,2025-02-13,1.0,6349.0,0.95,Delivered,Cash on Delivery,discount_out_of_range
+ORD-015258,C9999,P019,2024-11-21,3.0,25089.0,0.0,Delivered,Debit Card,unknown_customer_id
+ORD-009268,C3617,P027,2024-05-23,,2309.0,0.05,Delivered,Net Banking,missing_quantity
+ORD-010586,C9999,P020,2025-05-07,2.0,5159.0,0.05,Delivered,Debit Card,unknown_customer_id
+ORD-002847,C5031,P037,2025-06-12,5.0,5199.0,0.95,Returned,UPI,discount_out_of_range
+ORD-009770,C5568,P017,2024-05-30,,1749.0,0.1,Delivered,UPI,missing_quantity
+ORD-005274,C0753,P052,2024-01-19,5.0,159.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-014350,C4505,P026,2025-03-08,,1799.0,0.0,Delivered,UPI,missing_quantity
+ORD-007710,C5598,P999,2024-11-17,1.0,1219.0,0.0,Delivered,Cash on Delivery,unknown_product_id
+ORD-005088,C1748,P001,2024-06-15,,23559.0,0.1,Delivered,Cash on Delivery,missing_quantity
+ORD-017329,C4896,P038,2024-12-02,-1.0,3959.0,0.0,Delivered,Debit Card,quantity_out_of_range
+ORD-019713,C5888,P025,2024-07-02,,23679.0,0.0,Delivered,UPI,missing_quantity
+ORD-013478,C0556,P052,2025-06-11,1.0,159.0,0.95,Delivered,Cash on Delivery,discount_out_of_range
+ORD-011552,C1460,P035,2024-05-22,,1509.0,0.1,Delivered,UPI,missing_quantity
+ORD-009553,C9999,P056,2024-05-30,1.0,6309.0,0.0,Delivered,Debit Card,unknown_customer_id
+ORD-016454,C5012,P999,2024-12-02,2.0,23559.0,0.15,Cancelled,Credit Card,unknown_product_id
+ORD-000670,C4124,P021,2024-06-18,,3509.0,0.0,Delivered,Debit Card,missing_quantity
+ORD-013062,C5213,P001,2024-05-31,-1.0,23559.0,0.2,Cancelled,Cash on Delivery,quantity_out_of_range
+ORD-012929,C3260,P030,2024-05-14,-1.0,6259.0,0.1,Delivered,UPI,quantity_out_of_range
+ORD-006844,C1744,P006,2031-01-15,1.0,8789.0,0.05,Delivered,UPI,date_out_of_range
+ORD-015674,C3431,P999,2024-01-13,2.0,8369.0,0.2,Delivered,UPI,unknown_product_id
+ORD-018295,C1072,P021,,1.0,3509.0,0.1,Delivered,UPI,invalid_or_unparseable_date
+ORD-012410,C3368,P054,2024-07-25,,6099.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-017418,C5004,P999,2024-04-12,2.0,319.0,0.2,Delivered,Cash on Delivery,unknown_product_id
+ORD-019387,C2500,P056,2024-05-19,,6309.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-014397,C3156,P013,2025-02-14,,19849.0,0.15,Delivered,Cash on Delivery,missing_quantity
+ORD-004419,C1768,P046,2024-02-10,,749.0,0.05,Delivered,Debit Card,missing_quantity
+ORD-019312,C4893,P022,2024-07-02,,419.0,0.1,Delivered,Cash on Delivery,missing_quantity
+ORD-003062,C5082,P010,,1.0,489.0,0.1,Delivered,UPI,invalid_or_unparseable_date
+ORD-000967,C4974,P059,,5.0,589.0,0.0,Delivered,Credit Card,invalid_or_unparseable_date
+ORD-012646,C4481,P040,2024-09-13,,649.0,0.0,Delivered,UPI,missing_quantity
+ORD-013421,C9999,P022,2025-05-21,1.0,419.0,0.0,Delivered,Credit Card,unknown_customer_id
+ORD-003516,C0341,P028,2024-12-21,,179.0,0.0,Cancelled,UPI,missing_quantity
+ORD-019835,C3445,P007,2024-11-06,-1.0,23189.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-017518,C9999,P035,2025-03-13,1.0,1509.0,0.2,Delivered,Credit Card,unknown_customer_id
+ORD-007003,C9999,P046,2025-03-21,3.0,749.0,0.15,Delivered,Credit Card,unknown_customer_id
+ORD-010655,C5213,P041,,3.0,1419.0,0.1,Pending,Cash on Delivery,invalid_or_unparseable_date
+ORD-012563,C3948,P015,2024-12-09,999.0,2219.0,0.2,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-009953,C3175,P042,2024-07-29,,7549.0,0.0,Delivered,UPI,missing_quantity
+ORD-011982,C5873,P019,2031-01-15,1.0,25089.0,0.1,Delivered,Credit Card,date_out_of_range
+ORD-001570,C9999,P011,2024-04-28,1.0,1239.0,0.0,Delivered,Credit Card,unknown_customer_id
+ORD-015584,C1324,P026,2024-10-17,-1.0,1799.0,0.2,Cancelled,Credit Card,quantity_out_of_range
+ORD-009331,C3499,P007,2024-02-19,1.0,23189.0,0.95,Cancelled,Cash on Delivery,discount_out_of_range
+ORD-015124,C2047,P031,2031-01-15,1.0,22729.0,0.0,Returned,UPI,date_out_of_range
+ORD-012869,C2296,P055,2025-02-17,,21599.0,0.05,Cancelled,UPI,missing_quantity
+ORD-006453,C9999,P060,2024-12-16,4.0,1339.0,0.15,Delivered,Cash on Delivery,unknown_customer_id
+ORD-007638,C9999,P053,2024-03-09,1.0,2399.0,0.05,Delivered,UPI,unknown_customer_id
+ORD-014249,C4670,P032,2024-11-23,-1.0,7749.0,0.15,Delivered,Credit Card,quantity_out_of_range
+ORD-007263,C0415,P021,2025-02-08,-1.0,3509.0,0.05,Delivered,Debit Card,quantity_out_of_range
+ORD-002073,C5252,P005,,1.0,459.0,0.0,Delivered,UPI,invalid_or_unparseable_date
+ORD-004925,C0326,P017,,5.0,1749.0,0.2,Delivered,Credit Card,invalid_or_unparseable_date
+ORD-001673,C3010,P033,2031-01-15,1.0,1739.0,0.0,Delivered,Credit Card,date_out_of_range
+ORD-004318,C0888,P003,2025-03-30,-1.0,3919.0,0.0,Pending,UPI,quantity_out_of_range
+ORD-008743,C5433,P023,2024-08-14,-1.0,2919.0,0.2,Delivered,UPI,quantity_out_of_range
+ORD-006344,C1337,P016,2025-06-12,,319.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-010708,C5380,P012,,1.0,8369.0,0.05,Delivered,UPI,invalid_or_unparseable_date
+ORD-014149,C0899,P023,,3.0,2919.0,0.0,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-018132,C3630,P016,,1.0,319.0,0.15,Delivered,UPI,invalid_or_unparseable_date
+ORD-008223,C0094,P999,2024-11-03,1.0,1239.0,0.05,Pending,Credit Card,unknown_product_id
+ORD-007530,C3115,P046,2024-05-18,,749.0,0.0,Cancelled,UPI,missing_quantity
+ORD-006866,C9999,P056,2025-01-22,5.0,6309.0,0.15,Delivered,Credit Card,unknown_customer_id
+ORD-017353,C0073,P060,2024-10-09,,1339.0,0.0,Cancelled,UPI,missing_quantity
+ORD-005580,C3312,P053,2024-06-01,2.0,2399.0,0.95,Delivered,Net Banking,discount_out_of_range
+ORD-000079,C9999,P047,2024-09-06,1.0,1279.0,0.2,Delivered,UPI,unknown_customer_id
+ORD-001562,C9999,P059,2024-04-12,1.0,589.0,0.1,Delivered,Cash on Delivery,unknown_customer_id
+ORD-017247,C0637,P020,2025-05-05,-1.0,5159.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-001947,C5032,P024,2024-01-06,,8079.0,0.0,Delivered,Debit Card,missing_quantity
+ORD-006695,C3531,P051,2025-05-26,,1219.0,0.0,Delivered,UPI,missing_quantity
+ORD-014615,C1561,P029,2025-01-17,-1.0,629.0,0.0,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-014419,C5628,P999,2024-09-20,1.0,5199.0,0.1,Cancelled,Credit Card,unknown_product_id
+ORD-014611,C2907,P001,2024-10-26,1.0,23559.0,0.95,Cancelled,Cash on Delivery,discount_out_of_range
+ORD-008013,C3796,P999,2024-05-13,3.0,6639.0,0.05,Pending,Net Banking,unknown_product_id
+ORD-016786,C0963,P044,2025-05-18,,2709.0,0.1,Delivered,Net Banking,missing_quantity
+ORD-011561,C3882,P999,2024-03-23,2.0,8079.0,0.05,Delivered,Debit Card,unknown_product_id
+ORD-014206,C5840,P999,2025-03-06,1.0,3919.0,0.0,Returned,Debit Card,unknown_product_id
+ORD-009750,C4717,P023,2024-12-31,3.0,2919.0,0.95,Cancelled,UPI,discount_out_of_range
+ORD-001850,C3912,P028,2024-11-07,999.0,179.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-009319,C2382,P999,2024-01-08,1.0,3509.0,0.15,Delivered,Cash on Delivery,unknown_product_id
+ORD-005612,C1231,P050,2025-04-28,,1379.0,0.05,Delivered,UPI,missing_quantity
+ORD-003671,C1073,P037,2025-03-13,,5199.0,0.1,Delivered,UPI,missing_quantity
+ORD-015025,C0622,P026,2025-05-26,,1799.0,0.05,Delivered,Net Banking,missing_quantity
+ORD-001983,C3977,P035,2024-01-20,-1.0,1509.0,0.1,Delivered,Debit Card,quantity_out_of_range
+ORD-002824,C3585,P999,2024-06-07,4.0,589.0,0.05,Delivered,Cash on Delivery,unknown_product_id
+ORD-016122,C4252,P060,2025-05-10,,1339.0,0.15,Delivered,Debit Card,missing_quantity
+ORD-010987,C3263,P045,2025-06-11,,3809.0,0.15,Delivered,Net Banking,missing_quantity
+ORD-000525,C5095,P999,2024-12-21,1.0,5159.0,0.0,Delivered,UPI,unknown_product_id
+ORD-000049,C1231,P016,2024-06-22,,319.0,0.0,Delivered,UPI,missing_quantity
+ORD-010943,C3221,P051,2024-07-30,1.0,1219.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-010363,C9999,P029,2024-06-20,1.0,629.0,0.15,Delivered,Cash on Delivery,unknown_customer_id
+ORD-001929,C5836,P015,2031-01-15,2.0,2219.0,0.0,Pending,Debit Card,date_out_of_range
+ORD-010368,C4704,P048,2025-03-01,,2839.0,0.0,Delivered,Cash on Delivery,missing_quantity
+ORD-011932,C2232,P007,2024-07-30,,23189.0,0.1,Delivered,UPI,missing_quantity
+ORD-007526,C9999,P047,2024-07-16,5.0,1279.0,0.0,Cancelled,Debit Card,unknown_customer_id
+ORD-007407,C1027,P012,2024-06-08,-1.0,8369.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-007436,C5834,P007,2024-06-26,,23189.0,0.0,Delivered,UPI,missing_quantity
+ORD-016331,C1207,P043,2024-04-06,,21459.0,0.05,Delivered,Cash on Delivery,missing_quantity
+ORD-003396,C3528,P042,2024-08-07,-1.0,7549.0,0.05,Delivered,UPI,quantity_out_of_range
+ORD-008502,C4147,P019,2025-03-12,,25089.0,0.05,Delivered,Credit Card,missing_quantity
+ORD-018760,C0440,P016,2024-09-13,,319.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-011357,C9999,P045,2025-01-01,1.0,3809.0,0.1,Delivered,Debit Card,unknown_customer_id
+ORD-005316,C9999,P037,2025-04-22,2.0,5199.0,0.2,Cancelled,Credit Card,unknown_customer_id
+ORD-004274,C4010,P046,2025-01-19,-1.0,749.0,0.0,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-000404,C5891,P056,2024-01-28,,6309.0,0.0,Delivered,UPI,missing_quantity
+ORD-003540,C2136,P036,2024-03-20,-1.0,1989.0,0.05,Delivered,UPI,quantity_out_of_range
+ORD-006655,C5283,P051,2024-11-12,,1219.0,0.0,Pending,Cash on Delivery,missing_quantity
+ORD-010673,C4209,P006,2024-08-11,,8789.0,0.05,Delivered,Debit Card,missing_quantity
+ORD-013510,C4568,P005,2024-03-29,-1.0,459.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-011587,C5918,P028,,2.0,179.0,0.15,Pending,Debit Card,invalid_or_unparseable_date
+ORD-001813,C3366,P035,2024-06-06,,1509.0,0.1,Delivered,Credit Card,missing_quantity
+ORD-018514,C5130,P021,,1.0,3509.0,0.1,Delivered,UPI,invalid_or_unparseable_date
+ORD-013440,C0675,P021,2024-12-24,,3509.0,0.05,Delivered,Cash on Delivery,missing_quantity
+ORD-004151,C5623,P014,2024-05-04,-1.0,6639.0,0.05,Cancelled,Net Banking,quantity_out_of_range
+ORD-010277,C3471,P015,2024-03-08,-1.0,2219.0,0.2,Delivered,UPI,quantity_out_of_range
+ORD-002608,C0603,P030,2024-01-07,999.0,6259.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-010439,C0983,P003,,1.0,3919.0,0.0,Delivered,Cash on Delivery,invalid_or_unparseable_date
+ORD-006438,C4841,P010,2024-10-05,999.0,489.0,0.2,Delivered,Net Banking,quantity_out_of_range
+ORD-012849,C1852,P042,,2.0,7549.0,0.0,Delivered,Credit Card,invalid_or_unparseable_date
+ORD-008103,C0469,P033,,2.0,1739.0,0.0,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-014318,C3627,P048,2025-01-18,,2839.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-003327,C5085,P059,2024-07-08,,589.0,0.1,Delivered,Credit Card,missing_quantity
+ORD-005534,C2982,P019,2024-04-25,-1.0,25089.0,0.05,Cancelled,UPI,quantity_out_of_range
+ORD-003258,C3441,P058,2024-11-14,,579.0,0.15,Delivered,UPI,missing_quantity
+ORD-019365,C5446,P026,2024-05-27,-1.0,1799.0,0.1,Returned,Net Banking,quantity_out_of_range
+ORD-019749,C1771,P037,2024-02-25,,5199.0,0.05,Delivered,Credit Card,missing_quantity
+ORD-001681,C0326,P044,2031-01-15,1.0,2709.0,0.1,Delivered,Net Banking,date_out_of_range
+ORD-012757,C5859,P007,2031-01-15,1.0,23189.0,0.05,Delivered,Debit Card,date_out_of_range
+ORD-006796,C2297,P030,2024-08-28,-1.0,6259.0,0.0,Returned,UPI,quantity_out_of_range
+ORD-010547,C2361,P027,2031-01-15,3.0,2309.0,0.0,Delivered,Cash on Delivery,date_out_of_range
+ORD-014888,C2232,P045,2024-12-07,-1.0,3809.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-005205,C2516,P043,2024-05-12,,21459.0,0.05,Delivered,Cash on Delivery,missing_quantity
+ORD-003841,C9999,P019,2025-01-08,1.0,25089.0,0.1,Delivered,Net Banking,unknown_customer_id
+ORD-004576,C1758,P059,2024-04-27,-1.0,589.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-014046,C9999,P048,2024-04-06,1.0,2839.0,0.0,Delivered,Net Banking,unknown_customer_id
+ORD-000524,C4906,P018,,2.0,899.0,0.0,Delivered,Net Banking,invalid_or_unparseable_date
+ORD-017345,C2438,P045,2024-09-05,,3809.0,0.0,Delivered,UPI,missing_quantity
+ORD-012908,C1559,P025,2025-02-13,,23679.0,0.15,Delivered,UPI,missing_quantity
+ORD-007329,C5252,P009,2025-05-03,1.0,929.0,0.95,Delivered,Debit Card,discount_out_of_range
+ORD-019639,C3185,P999,2024-11-29,3.0,2219.0,0.05,Delivered,Debit Card,unknown_product_id
+ORD-017540,C0709,P030,,1.0,6259.0,0.05,Delivered,UPI,invalid_or_unparseable_date
+ORD-014087,C4866,P020,2024-02-28,-1.0,5159.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-003086,C2659,P057,2024-09-29,999.0,2279.0,0.1,Cancelled,UPI,quantity_out_of_range
+ORD-017849,C1110,P037,2024-03-13,,5199.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-008778,C0187,P041,2024-02-15,-1.0,1419.0,0.05,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-010236,C3724,P015,2025-03-25,-1.0,2219.0,0.1,Delivered,UPI,quantity_out_of_range
+ORD-003238,C9999,P015,2024-09-29,1.0,2219.0,0.2,Delivered,Credit Card,unknown_customer_id
+ORD-011791,C2034,P033,2025-06-11,,1739.0,0.0,Delivered,Debit Card,missing_quantity
+ORD-013503,C1771,P047,,2.0,1279.0,0.0,Delivered,UPI,invalid_or_unparseable_date
+ORD-010314,C2499,P046,2024-01-24,,749.0,0.0,Delivered,UPI,missing_quantity
+ORD-015248,C3437,P003,2024-11-26,,3919.0,0.1,Delivered,Credit Card,missing_quantity
+ORD-018746,C0184,P060,2024-11-26,-1.0,1339.0,0.15,Delivered,Credit Card,quantity_out_of_range
+ORD-012353,C1948,P048,2024-09-17,,2839.0,0.05,Delivered,Cash on Delivery,missing_quantity
+ORD-009698,C5645,P002,2024-09-19,-1.0,3679.0,0.0,Delivered,Debit Card,quantity_out_of_range
+ORD-001134,C2716,P022,2024-06-19,-1.0,419.0,0.05,Delivered,Debit Card,quantity_out_of_range
+ORD-018083,C3889,P999,2025-02-27,2.0,6639.0,0.2,Delivered,Cash on Delivery,unknown_product_id
+ORD-002174,C2579,P999,2024-07-01,2.0,929.0,0.15,Delivered,Debit Card,unknown_product_id
+ORD-001868,C0346,P055,2024-12-16,,21599.0,0.0,Delivered,UPI,missing_quantity
+ORD-018680,C4258,P026,,-1.0,1799.0,0.05,Cancelled,Credit Card,invalid_or_unparseable_date
+ORD-016343,C4354,P026,2031-01-15,1.0,1799.0,0.1,Delivered,Cash on Delivery,date_out_of_range
+ORD-008803,C2982,P034,2024-05-14,,429.0,0.0,Delivered,UPI,missing_quantity
+ORD-012003,C2892,P010,2024-02-15,,489.0,0.05,Delivered,Credit Card,missing_quantity
+ORD-019614,C2796,P005,2025-01-01,,459.0,0.1,Delivered,UPI,missing_quantity
+ORD-015095,C3611,P043,2031-01-15,2.0,21459.0,0.0,Returned,Cash on Delivery,date_out_of_range
+ORD-007687,C1951,P003,2024-11-25,,3919.0,0.0,Delivered,Cash on Delivery,missing_quantity
+ORD-007089,C5759,P039,2024-09-09,,1329.0,0.1,Delivered,UPI,missing_quantity
+ORD-004240,C9999,P058,2025-03-10,1.0,579.0,0.0,Delivered,UPI,unknown_customer_id
+ORD-000549,C4990,P021,2024-09-26,-1.0,3509.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-013278,C1807,P006,2024-11-17,999.0,8789.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-000067,C5641,P021,2025-05-30,999.0,3509.0,0.1,Delivered,UPI,quantity_out_of_range
+ORD-013449,C0155,P008,2025-04-10,-1.0,6349.0,0.0,Returned,Credit Card,quantity_out_of_range
+ORD-000516,C1080,P024,,1.0,8079.0,0.0,Delivered,Credit Card,invalid_or_unparseable_date
+ORD-010942,C4104,P021,2024-11-13,-1.0,3509.0,0.05,Delivered,UPI,quantity_out_of_range
+ORD-008220,C2957,P059,2024-05-11,,589.0,0.1,Cancelled,UPI,missing_quantity
+ORD-017759,C9999,P037,2024-10-29,1.0,5199.0,0.15,Delivered,Debit Card,unknown_customer_id
+ORD-002581,C3017,P999,2024-12-03,2.0,2709.0,0.1,Delivered,UPI,unknown_product_id
+ORD-000627,C0931,P058,2024-12-22,999.0,579.0,0.05,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-002640,C2301,P054,2024-09-16,,6099.0,0.05,Delivered,UPI,missing_quantity
+ORD-003787,C4565,P020,2024-02-18,,5159.0,0.1,Cancelled,Credit Card,missing_quantity
+ORD-019054,C4770,P009,2025-01-26,,929.0,0.0,Delivered,Debit Card,missing_quantity
+ORD-010898,C5976,P040,2031-01-15,1.0,649.0,0.1,Pending,Debit Card,date_out_of_range
+ORD-009643,C3778,P013,2025-03-24,,19849.0,0.2,Delivered,Cash on Delivery,missing_quantity
+ORD-008612,C1062,P004,2024-01-11,1.0,669.0,0.95,Delivered,Credit Card,discount_out_of_range
+ORD-009710,C0885,P030,,2.0,6259.0,0.0,Delivered,UPI,invalid_or_unparseable_date
+ORD-014348,C5166,P022,2024-05-10,,419.0,0.2,Delivered,Credit Card,missing_quantity
+ORD-011280,C1867,P024,2031-01-15,1.0,8079.0,0.0,Cancelled,Credit Card,date_out_of_range
+ORD-009096,C9999,P014,2025-01-31,1.0,6639.0,0.05,Delivered,UPI,unknown_customer_id
+ORD-002171,C1468,P047,2024-04-07,,1279.0,0.1,Delivered,Cash on Delivery,missing_quantity
+ORD-007621,C5871,P008,2024-11-18,999.0,6349.0,0.05,Delivered,UPI,quantity_out_of_range
+ORD-009628,C0914,P054,2024-10-18,,6099.0,0.0,Delivered,Cash on Delivery,missing_quantity
+ORD-005799,C5637,P038,2025-05-30,-1.0,3959.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-011349,C4990,P011,2024-01-19,,1239.0,0.15,Cancelled,UPI,missing_quantity
+ORD-018043,C1893,P999,2024-11-23,2.0,2219.0,0.0,Delivered,UPI,unknown_product_id
+ORD-001474,C2284,P007,2025-03-24,-1.0,23189.0,0.1,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-000172,C4100,P999,2024-03-14,2.0,2219.0,0.0,Delivered,Credit Card,unknown_product_id
+ORD-001185,C2638,P016,2024-12-13,5.0,319.0,0.95,Delivered,Credit Card,discount_out_of_range
+ORD-014878,C3122,P044,2024-07-15,4.0,2709.0,0.95,Delivered,Credit Card,discount_out_of_range
+ORD-016756,C0341,P002,2024-11-15,-1.0,3679.0,0.1,Delivered,UPI,quantity_out_of_range
+ORD-012745,C2749,P031,2024-06-05,-1.0,22729.0,0.0,Returned,Credit Card,quantity_out_of_range
+ORD-001212,C5731,P028,2025-01-26,,179.0,0.15,Delivered,Debit Card,missing_quantity
+ORD-012669,C9999,P036,2024-12-30,2.0,1989.0,0.0,Delivered,Cash on Delivery,unknown_customer_id
+ORD-001193,C0401,P036,2024-02-03,,1989.0,0.05,Delivered,UPI,missing_quantity
+ORD-000273,C1110,P999,2024-06-02,2.0,23189.0,0.05,Delivered,Debit Card,unknown_product_id
+ORD-008505,C9999,P023,2025-05-08,1.0,2919.0,0.95,Delivered,UPI,unknown_customer_id
+ORD-014703,C5434,P014,,2.0,6639.0,0.05,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-000747,C4095,P006,2024-12-13,,8789.0,0.15,Delivered,Net Banking,missing_quantity
+ORD-014988,C0836,P006,2024-10-07,,8789.0,0.05,Returned,Debit Card,missing_quantity
+ORD-001894,C5023,P036,2031-01-15,1.0,1989.0,0.05,Delivered,Debit Card,date_out_of_range
+ORD-000942,C2530,P999,2025-01-03,2.0,8789.0,0.05,Returned,UPI,unknown_product_id
+ORD-003513,C4364,P999,2024-06-11,3.0,589.0,0.05,Delivered,Credit Card,unknown_product_id
+ORD-004086,C2839,P039,2024-12-17,999.0,1329.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-013991,C2110,P013,2025-04-13,,19849.0,0.15,Pending,UPI,missing_quantity
+ORD-015853,C2449,P013,,1.0,19849.0,0.1,Delivered,UPI,invalid_or_unparseable_date
+ORD-012896,C2192,P999,2025-06-05,1.0,1509.0,0.15,Pending,UPI,unknown_product_id
+ORD-000326,C5177,P039,2024-10-31,,1329.0,0.0,Delivered,UPI,missing_quantity
+ORD-015561,C4522,P027,2031-01-15,1.0,2309.0,0.05,Delivered,Debit Card,date_out_of_range
+ORD-004572,C1506,P013,2024-08-17,,19849.0,0.0,Returned,Debit Card,missing_quantity
+ORD-019673,C5497,P001,2024-06-09,-1.0,23559.0,0.05,Delivered,UPI,quantity_out_of_range
+ORD-003982,C3475,P015,2025-02-14,-1.0,2219.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-003978,C1053,P041,2031-01-15,1.0,1419.0,0.0,Delivered,UPI,date_out_of_range
+ORD-008636,C3299,P037,2024-07-30,,5199.0,0.05,Delivered,UPI,missing_quantity
+ORD-012143,C9999,P052,2024-11-20,1.0,159.0,0.0,Delivered,UPI,unknown_customer_id
+ORD-017001,C9999,P026,2024-12-01,1.0,1799.0,0.0,Delivered,Credit Card,unknown_customer_id
+ORD-004927,C4993,P003,,2.0,3919.0,0.05,Cancelled,UPI,invalid_or_unparseable_date
+ORD-015348,C2697,P033,,1.0,1739.0,0.05,Delivered,Cash on Delivery,invalid_or_unparseable_date
+ORD-003093,C5526,P999,2024-01-03,1.0,2309.0,0.05,Pending,UPI,unknown_product_id
+ORD-004816,C0585,P999,2024-05-13,2.0,929.0,0.1,Delivered,Cash on Delivery,unknown_product_id
+ORD-001828,C3770,P010,,1.0,489.0,0.2,Delivered,Cash on Delivery,invalid_or_unparseable_date
+ORD-004687,C1091,P033,2025-02-17,999.0,1739.0,0.05,Delivered,UPI,quantity_out_of_range
+ORD-009994,C2361,P054,2024-02-06,-1.0,6099.0,0.1,Delivered,Debit Card,quantity_out_of_range
+ORD-013713,C3092,P005,2024-03-09,999.0,459.0,0.05,Delivered,UPI,quantity_out_of_range
+ORD-000758,C5597,P053,2025-03-01,,2399.0,0.05,Delivered,Debit Card,missing_quantity
+ORD-017679,C0079,P023,2025-01-24,,2919.0,0.05,Delivered,Net Banking,missing_quantity
+ORD-019833,C5288,P016,2024-08-30,,319.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-009461,C2195,P999,2024-05-29,1.0,1739.0,0.05,Pending,Credit Card,unknown_product_id
+ORD-017150,C0071,P051,2024-03-28,-1.0,1219.0,0.1,Delivered,Net Banking,quantity_out_of_range
+ORD-006101,C4350,P051,2024-10-20,,1219.0,0.0,Delivered,Cash on Delivery,missing_quantity
+ORD-012894,C1344,P003,2025-04-17,2.0,3919.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-019591,C5498,P999,2025-05-17,1.0,2309.0,0.05,Delivered,Credit Card,unknown_product_id
+ORD-004669,C5920,P008,2025-01-25,,6349.0,0.1,Delivered,Cash on Delivery,missing_quantity
+ORD-012949,C5107,P018,2024-02-21,,899.0,0.15,Delivered,UPI,missing_quantity
+ORD-018981,C9999,P046,2025-03-05,1.0,749.0,0.1,Delivered,Debit Card,unknown_customer_id
+ORD-016937,C0422,P015,2025-05-15,1.0,2219.0,0.95,Delivered,Cash on Delivery,discount_out_of_range
+ORD-017499,C3015,P053,2024-04-04,,2399.0,0.0,Delivered,UPI,missing_quantity
+ORD-003359,C2084,P059,2024-11-16,,589.0,0.0,Delivered,UPI,missing_quantity
+ORD-009063,C1662,P001,2025-05-17,,23559.0,0.15,Delivered,UPI,missing_quantity
+ORD-019868,C0155,P002,2024-08-01,-1.0,3679.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-009941,C0395,P054,2024-10-11,,6099.0,0.15,Delivered,Credit Card,missing_quantity
+ORD-010939,C2429,P051,2024-05-19,,1219.0,0.0,Returned,Credit Card,missing_quantity
+ORD-019563,C4287,P016,2025-06-09,-1.0,319.0,0.2,Delivered,UPI,quantity_out_of_range
+ORD-006902,C9999,P017,2024-10-28,2.0,1749.0,0.1,Delivered,UPI,unknown_customer_id
+ORD-004132,C1054,P044,2024-01-05,,2709.0,0.1,Delivered,UPI,missing_quantity
+ORD-003328,C5005,P051,2024-09-27,,1219.0,0.0,Cancelled,Debit Card,missing_quantity
+ORD-013118,C9999,P053,2025-04-18,2.0,2399.0,0.0,Delivered,Debit Card,unknown_customer_id
+ORD-004628,C9999,P042,2025-03-26,1.0,7549.0,0.1,Cancelled,Debit Card,unknown_customer_id
+ORD-018550,C0050,P009,2024-07-16,-1.0,929.0,0.05,Delivered,Credit Card,quantity_out_of_range
+ORD-006839,C5257,P999,2024-08-03,1.0,20949.0,0.1,Delivered,UPI,unknown_product_id
+ORD-019190,C1528,P048,2024-10-25,-1.0,2839.0,0.2,Returned,UPI,quantity_out_of_range
+ORD-009307,C2207,P001,2025-04-22,-1.0,23559.0,0.05,Delivered,Credit Card,quantity_out_of_range
+ORD-008491,C1714,P021,2031-01-15,1.0,3509.0,0.05,Delivered,UPI,date_out_of_range
+ORD-010007,C1290,P036,2024-03-19,-1.0,1989.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-006540,C3824,P060,2031-01-15,2.0,1339.0,0.0,Delivered,Debit Card,date_out_of_range
+ORD-017039,C4864,P999,2024-12-29,2.0,19849.0,0.0,Delivered,UPI,unknown_product_id
+ORD-012683,C1694,P039,2025-04-05,,1329.0,0.0,Delivered,UPI,missing_quantity
+ORD-010626,C5270,P999,2024-02-09,1.0,6639.0,0.0,Delivered,Net Banking,unknown_product_id
+ORD-007405,C1661,P002,2024-10-12,,3679.0,0.1,Delivered,Debit Card,missing_quantity
+ORD-008236,C9999,P005,2025-05-06,5.0,459.0,0.1,Delivered,Credit Card,unknown_customer_id
+ORD-008027,C2128,P999,2024-07-03,-1.0,1339.0,0.0,Cancelled,Credit Card,quantity_out_of_range
+ORD-011170,C2831,P058,,1.0,579.0,0.15,Delivered,UPI,invalid_or_unparseable_date
+ORD-006122,C4350,P999,2024-11-11,1.0,7549.0,0.0,Delivered,Credit Card,unknown_product_id
+ORD-000691,C2848,P038,,2.0,3959.0,0.15,Cancelled,Debit Card,invalid_or_unparseable_date
+ORD-012626,C2931,P003,2025-04-30,1.0,3919.0,0.95,Delivered,Net Banking,discount_out_of_range
+ORD-016754,C1801,P045,2024-02-27,,3809.0,0.05,Delivered,Credit Card,missing_quantity
+ORD-002643,C0745,P056,2024-07-29,,6309.0,0.1,Delivered,Cash on Delivery,missing_quantity
+ORD-002601,C3885,P060,,1.0,1339.0,0.0,Delivered,Cash on Delivery,invalid_or_unparseable_date
+ORD-017894,C3753,P040,2024-05-07,,649.0,0.15,Delivered,Cash on Delivery,missing_quantity
+ORD-006262,C3726,P053,,2.0,2399.0,0.0,Delivered,Credit Card,invalid_or_unparseable_date
+ORD-006990,C5791,P054,2024-08-09,,6099.0,0.0,Delivered,UPI,missing_quantity
+ORD-018167,C2857,P039,,1.0,1329.0,0.0,Delivered,Cash on Delivery,invalid_or_unparseable_date
+ORD-018860,C1079,P999,2024-03-20,2.0,459.0,0.0,Delivered,UPI,unknown_product_id
+ORD-002611,C2160,P004,2025-02-10,-1.0,669.0,0.1,Delivered,UPI,quantity_out_of_range
+ORD-012708,C4723,P050,2025-05-07,-1.0,1379.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-005635,C4476,P005,2024-05-09,,459.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-011581,C3417,P015,2024-05-24,-1.0,2219.0,0.15,Delivered,Credit Card,quantity_out_of_range
+ORD-011031,C9999,P029,2024-11-12,2.0,629.0,0.15,Delivered,Credit Card,unknown_customer_id
+ORD-018384,C1944,P026,2024-12-07,,1799.0,0.15,Delivered,UPI,missing_quantity
+ORD-007813,C3775,P023,2024-10-14,,2919.0,0.0,Delivered,UPI,missing_quantity
+ORD-018303,C0661,P018,2025-05-13,2.0,899.0,0.95,Delivered,Debit Card,discount_out_of_range
+ORD-011129,C0037,P044,2024-05-15,-1.0,2709.0,0.1,Delivered,UPI,quantity_out_of_range
+ORD-004010,C4319,P051,2025-03-01,,1219.0,0.1,Delivered,UPI,missing_quantity
+ORD-008549,C2277,P056,2025-03-16,,6309.0,0.1,Delivered,UPI,missing_quantity
+ORD-013980,C3089,P017,2025-01-20,,1749.0,0.1,Delivered,UPI,missing_quantity
+ORD-014386,C5805,P059,2024-09-23,,589.0,0.2,Delivered,Net Banking,missing_quantity
+ORD-001073,C3360,P006,2024-02-20,2.0,8789.0,0.95,Cancelled,UPI,discount_out_of_range
+ORD-002006,C1164,P052,2024-01-04,-1.0,159.0,0.05,Delivered,UPI,quantity_out_of_range
+ORD-012821,C4862,P009,2024-08-27,,929.0,0.05,Delivered,Debit Card,missing_quantity
+ORD-006319,C9999,P025,2024-02-27,5.0,23679.0,0.1,Delivered,UPI,unknown_customer_id
+ORD-005794,C4818,P035,2024-01-26,,1509.0,0.0,Delivered,Net Banking,missing_quantity
+ORD-005591,C5864,P042,,5.0,7549.0,0.0,Delivered,Credit Card,invalid_or_unparseable_date
+ORD-000437,C9999,P056,2024-10-28,1.0,6309.0,0.0,Delivered,UPI,unknown_customer_id
+ORD-018956,C3736,P999,2025-01-10,1.0,8789.0,0.0,Delivered,Debit Card,unknown_product_id
+ORD-000341,C5583,P031,2025-03-25,-1.0,22729.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-013866,C4181,P047,2025-03-31,,1279.0,0.1,Delivered,Cash on Delivery,missing_quantity
+ORD-015849,C5812,P026,2025-05-28,999.0,1799.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-003237,C5270,P045,2024-03-29,,3809.0,0.05,Delivered,UPI,missing_quantity
+ORD-014139,C0455,P022,2024-12-30,3.0,419.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-004653,C0760,P033,2024-06-17,,1739.0,0.05,Delivered,Net Banking,missing_quantity
+ORD-015008,C4969,P024,,1.0,8079.0,0.2,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-010082,C2035,P034,2024-07-12,-1.0,429.0,0.05,Delivered,UPI,quantity_out_of_range
+ORD-009429,C1895,P040,2024-07-17,,649.0,0.0,Delivered,Credit Card,missing_quantity
+ORD-005444,C2149,P045,2024-02-10,,3809.0,0.1,Delivered,Debit Card,missing_quantity
+ORD-013655,C1737,P014,2025-01-05,,6639.0,0.0,Delivered,UPI,missing_quantity
+ORD-012744,C4556,P042,2024-10-14,-1.0,7549.0,0.05,Delivered,Credit Card,quantity_out_of_range
+ORD-018970,C1187,P999,2024-05-18,3.0,19849.0,0.0,Delivered,Debit Card,unknown_product_id
+ORD-004913,C0524,P030,2025-05-02,-1.0,6259.0,0.0,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-002262,C2337,P043,2025-05-28,1.0,21459.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-016790,C9999,P048,2024-12-09,3.0,2839.0,0.15,Delivered,UPI,unknown_customer_id
+ORD-017733,C3755,P050,2024-12-30,,1379.0,0.15,Delivered,Net Banking,missing_quantity
+ORD-017045,C2247,P002,2031-01-15,1.0,3679.0,0.15,Delivered,Debit Card,date_out_of_range
+ORD-002525,C4005,P040,,2.0,649.0,0.05,Returned,UPI,invalid_or_unparseable_date
+ORD-006817,C5742,P059,2031-01-15,5.0,589.0,0.1,Delivered,Credit Card,date_out_of_range
+ORD-013075,C5583,P999,2024-07-19,1.0,1989.0,0.0,Delivered,Credit Card,unknown_product_id
+ORD-005662,C1642,P048,2024-06-03,-1.0,2839.0,0.0,Delivered,Debit Card,quantity_out_of_range
+ORD-006702,C3836,P056,2025-06-02,,6309.0,0.1,Delivered,Credit Card,missing_quantity
+ORD-019644,C3321,P014,2024-12-16,-1.0,6639.0,0.05,Delivered,UPI,quantity_out_of_range
+ORD-009123,C5456,P002,2024-08-16,,3679.0,0.05,Returned,Net Banking,missing_quantity
+ORD-005434,C3834,P999,2024-11-15,1.0,6349.0,0.0,Delivered,Cash on Delivery,unknown_product_id
+ORD-000646,C9999,P042,2025-01-04,4.0,7549.0,0.2,Cancelled,Net Banking,unknown_customer_id
+ORD-009588,C5682,P008,,1.0,6349.0,0.05,Delivered,UPI,invalid_or_unparseable_date
+ORD-006972,C2198,P040,2024-12-14,,649.0,0.1,Delivered,Net Banking,missing_quantity
+ORD-005224,C1143,P004,2024-06-28,,669.0,0.2,Cancelled,Debit Card,missing_quantity
+ORD-008079,C3307,P999,2025-06-23,1.0,23679.0,0.1,Delivered,Credit Card,unknown_product_id
+ORD-006711,C9999,P020,2025-06-19,2.0,5159.0,0.05,Delivered,Cash on Delivery,unknown_customer_id
+ORD-006824,C1748,P055,,1.0,21599.0,0.2,Delivered,Cash on Delivery,invalid_or_unparseable_date
+ORD-013172,C3933,P052,2024-09-10,,159.0,0.2,Delivered,UPI,missing_quantity
+ORD-016377,C4796,P046,2024-11-17,,749.0,0.05,Pending,UPI,missing_quantity
+ORD-005433,C0882,P011,2025-02-14,,1239.0,0.05,Delivered,UPI,missing_quantity
+ORD-001172,C4527,P049,2024-01-31,2.0,20949.0,0.95,Cancelled,Net Banking,discount_out_of_range
+ORD-006398,C2211,P999,2024-11-02,1.0,179.0,0.0,Delivered,Cash on Delivery,unknown_product_id
+ORD-012890,C9999,P042,2024-03-15,1.0,7549.0,0.0,Delivered,Debit Card,unknown_customer_id
+ORD-012449,C0642,P036,2025-02-01,-1.0,1989.0,0.0,Delivered,Debit Card,quantity_out_of_range
+ORD-011167,C0628,P999,2024-05-07,1.0,5159.0,0.0,Delivered,UPI,unknown_product_id
+ORD-001081,C1244,P999,2024-05-03,1.0,5199.0,0.0,Delivered,Cash on Delivery,unknown_product_id
+ORD-001725,C3250,P032,2024-01-28,999.0,7749.0,0.15,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-019517,C3241,P033,2024-11-19,,1739.0,0.05,Delivered,UPI,missing_quantity
+ORD-005331,C1141,P012,,3.0,8369.0,0.0,Delivered,Net Banking,invalid_or_unparseable_date
+ORD-018796,C0627,P003,2024-04-04,999.0,3919.0,0.0,Delivered,Debit Card,quantity_out_of_range
+ORD-003717,C0517,P052,2024-12-24,-1.0,159.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-018786,C0949,P045,2024-01-03,,3809.0,0.2,Delivered,Credit Card,missing_quantity
+ORD-012266,C0477,P026,,1.0,1799.0,0.0,Pending,UPI,invalid_or_unparseable_date
+ORD-019166,C0734,P054,2024-07-09,,6099.0,0.2,Cancelled,UPI,missing_quantity
+ORD-017626,C3834,P043,2024-02-13,,21459.0,0.05,Delivered,Cash on Delivery,missing_quantity
+ORD-009655,C1778,P006,2024-12-29,1.0,8789.0,0.95,Delivered,Net Banking,discount_out_of_range
+ORD-018994,C3272,P040,2024-10-15,999.0,649.0,0.15,Delivered,UPI,quantity_out_of_range
+ORD-013179,C0057,P034,,2.0,429.0,0.0,Delivered,UPI,invalid_or_unparseable_date
+ORD-012041,C4390,P047,2031-01-15,5.0,1279.0,0.1,Delivered,UPI,date_out_of_range
+ORD-009109,C4079,P040,2024-03-15,-1.0,649.0,0.0,Returned,Credit Card,quantity_out_of_range
+ORD-007849,C5315,P014,2024-06-15,,6639.0,0.1,Delivered,UPI,missing_quantity
+ORD-017088,C0133,P027,2024-08-15,-1.0,2309.0,0.1,Delivered,Debit Card,quantity_out_of_range
+ORD-017583,C9999,P050,2024-10-16,2.0,1379.0,0.05,Returned,Cash on Delivery,unknown_customer_id
+ORD-006981,C0704,P019,2025-04-12,1.0,25089.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-015636,C1640,P999,2025-01-21,1.0,6639.0,0.0,Delivered,UPI,unknown_product_id
+ORD-002366,C0390,P042,,,7549.0,0.0,Delivered,UPI,invalid_or_unparseable_date
+ORD-013911,C4862,P999,2024-08-20,1.0,929.0,0.0,Cancelled,Net Banking,unknown_product_id
+ORD-014037,C9999,P041,2024-08-22,4.0,1419.0,0.05,Delivered,Cash on Delivery,unknown_customer_id
+ORD-013613,C2142,P019,,1.0,25089.0,0.1,Delivered,Credit Card,invalid_or_unparseable_date
+ORD-017019,C3541,P022,2024-04-27,999.0,419.0,0.15,Delivered,Debit Card,quantity_out_of_range
+ORD-010362,C4545,P034,2024-10-31,,429.0,0.1,Delivered,Credit Card,missing_quantity
+ORD-008906,C0150,P002,2025-06-23,999.0,3679.0,0.0,Delivered,Cash on Delivery,quantity_out_of_range
+ORD-002721,C3253,P008,2024-06-11,,6349.0,0.1,Delivered,Cash on Delivery,missing_quantity
+ORD-005110,C5685,P048,2024-09-13,,2839.0,0.0,Pending,Credit Card,missing_quantity
+ORD-017483,C0589,P022,2024-05-19,,419.0,0.05,Delivered,Debit Card,missing_quantity
+ORD-009078,C3753,P056,2024-12-10,,6309.0,0.05,Delivered,Net Banking,missing_quantity
+ORD-009440,C9999,P049,2024-04-30,5.0,20949.0,0.1,Delivered,UPI,unknown_customer_id
+ORD-012714,C2112,P032,2024-07-14,-1.0,7749.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-016107,C5150,P018,2024-10-28,,899.0,0.0,Delivered,Net Banking,missing_quantity
+ORD-002470,C1661,P030,2024-06-07,-1.0,6259.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-008246,C9999,P008,2024-12-26,1.0,6349.0,0.0,Delivered,Net Banking,unknown_customer_id
+ORD-017321,C3022,P011,2025-03-15,-1.0,1239.0,0.0,Delivered,Net Banking,quantity_out_of_range
+ORD-003565,C5649,P031,,3.0,22729.0,0.1,Delivered,Cash on Delivery,invalid_or_unparseable_date
+ORD-014900,C1747,P058,2024-04-21,999.0,579.0,0.0,Cancelled,Net Banking,quantity_out_of_range
+ORD-012985,C0798,P032,2025-06-27,-1.0,7749.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-018417,C0609,P025,2024-05-31,,23679.0,0.0,Delivered,UPI,missing_quantity
+ORD-000546,C3089,P999,2025-03-12,4.0,8789.0,0.1,Delivered,Credit Card,unknown_product_id
+ORD-013738,C5075,P052,2025-03-29,,159.0,0.1,Delivered,UPI,missing_quantity
+ORD-003641,C2342,P005,2025-01-04,999.0,459.0,0.0,Delivered,UPI,quantity_out_of_range
+ORD-019928,C5654,P042,2024-01-18,999.0,7549.0,0.1,Delivered,Credit Card,quantity_out_of_range
+ORD-002121,C4604,P009,2024-06-08,-1.0,929.0,0.1,Delivered,Debit Card,quantity_out_of_range
+ORD-001763,C5590,P999,2024-05-18,4.0,749.0,0.0,Delivered,Net Banking,unknown_product_id
+ORD-008429,C2109,P057,2025-01-24,,2279.0,0.0,Delivered,Debit Card,missing_quantity
+ORD-014597,C4887,P008,2024-10-11,999.0,6349.0,0.2,Delivered,UPI,quantity_out_of_range
+ORD-010999,C1251,P031,2024-11-30,5.0,22729.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-012601,C1226,P057,2025-02-25,,2279.0,0.1,Delivered,UPI,missing_quantity
+ORD-014423,C5040,P049,2024-06-05,4.0,20949.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-012313,C1158,P048,2024-10-03,999.0,2839.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-010315,C1927,P002,2024-01-23,999.0,3679.0,0.05,Delivered,Debit Card,quantity_out_of_range
+ORD-007197,C4982,P029,,1.0,629.0,0.15,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-002117,C9999,P044,2024-10-05,2.0,2709.0,0.1,Delivered,Cash on Delivery,unknown_customer_id
+ORD-014383,C5037,P036,2024-05-28,2.0,1989.0,0.95,Delivered,UPI,discount_out_of_range
+ORD-009447,C0494,P999,2024-11-21,1.0,3679.0,0.0,Delivered,UPI,unknown_product_id
+ORD-017587,C2616,P028,,1.0,179.0,0.0,Delivered,Debit Card,invalid_or_unparseable_date
+ORD-007985,C5840,P047,2025-06-12,,1279.0,0.05,Delivered,Credit Card,missing_quantity
+ORD-016645,C3700,P014,2025-06-16,1.0,6639.0,0.95,Cancelled,UPI,discount_out_of_range
+ORD-001829,C1460,P044,2024-10-03,,2709.0,0.2,Delivered,Debit Card,missing_quantity
+ORD-015386,C5789,P050,2025-02-16,,1379.0,0.05,Delivered,Credit Card,missing_quantity
+ORD-018118,C3397,P042,,1.0,7549.0,0.1,Delivered,UPI,invalid_or_unparseable_date
+ORD-010555,C4579,P028,2031-01-15,1.0,179.0,0.1,Delivered,UPI,date_out_of_range
+ORD-009796,C5229,P018,2024-04-03,999.0,899.0,0.05,Delivered,Net Banking,quantity_out_of_range
+ORD-007674,C2099,P045,,2.0,3809.0,0.0,Delivered,Net Banking,invalid_or_unparseable_date
+ORD-019263,C3757,P037,2024-08-29,,5199.0,0.05,Delivered,UPI,missing_quantity
+ORD-006377,C0361,P999,2024-01-11,4.0,3959.0,0.0,Delivered,Cash on Delivery,unknown_product_id
+ORD-011315,C5055,P047,2024-12-05,,1279.0,0.0,Delivered,UPI,missing_quantity
+ORD-007267,C4744,P030,2031-01-15,2.0,6259.0,0.0,Delivered,Net Banking,date_out_of_range
+ORD-013429,C0936,P022,2024-02-14,,419.0,0.1,Delivered,Cash on Delivery,missing_quantity
+ORD-019308,C0415,P043,2024-10-09,,21459.0,0.0,Delivered,Debit Card,missing_quantity
+ORD-002540,C9999,P054,2024-11-01,3.0,6099.0,0.15,Delivered,Net Banking,unknown_customer_id
+ORD-004172,C0446,P044,2024-01-09,,2709.0,0.2,Delivered,Debit Card,missing_quantity
+ORD-014398,C4702,P999,2024-10-13,1.0,5199.0,0.1,Delivered,Credit Card,unknown_product_id
+ORD-005105,C4009,P004,2024-01-30,,669.0,0.05,Cancelled,UPI,missing_quantity
+ORD-000729,C3991,P042,2024-12-09,-1.0,7549.0,0.1,Delivered,Net Banking,quantity_out_of_range
+ORD-002428,C9999,P025,2024-07-06,1.0,23679.0,0.05,Delivered,Credit Card,unknown_customer_id
+ORD-018072,C3127,P059,,2.0,589.0,0.0,Delivered,UPI,invalid_or_unparseable_date
+ORD-012758,C0926,P019,2024-04-05,,25089.0,0.15,Delivered,Credit Card,missing_quantity
+ORD-008051,C9999,P044,2024-12-19,1.0,2709.0,0.05,Delivered,Debit Card,unknown_customer_id
+ORD-002962,C9999,P043,2025-02-08,2.0,21459.0,0.05,Delivered,Credit Card,unknown_customer_id
+ORD-009638,C9999,P022,2024-03-23,2.0,419.0,0.05,Delivered,Debit Card,unknown_customer_id
+ORD-019895,C0769,P017,2025-06-18,-1.0,1749.0,0.0,Cancelled,UPI,quantity_out_of_range
+ORD-001307,C3834,P016,2024-03-26,,319.0,0.15,Delivered,Net Banking,missing_quantity
+ORD-019489,C3127,P014,2031-01-15,4.0,6639.0,0.0,Delivered,UPI,date_out_of_range
+ORD-001686,C1277,P043,2024-07-03,-1.0,21459.0,0.0,Delivered,Credit Card,quantity_out_of_range
+ORD-011364,C3404,P999,2025-03-08,3.0,5159.0,0.1,Cancelled,Credit Card,unknown_product_id
